@@ -1,4 +1,4 @@
-# Lookalike_Model
+# Lookalike Model
 ## Introduction
 Facebook Lookalike Audience service requires three inputs: Source, Location and Audience Size. Source refers to source audience, which Facebook recommends using "1,000 to 50,000 of your best customers." Location restricts the lookalike audience to a specific geographic region. Audience Size specifies the desired size of lookalike audience to be generated, measured in millions or percentage of total population of selected location. It is the responsibility of Coupang to select the source audience, based on relevant metrics e.g. lifetime value, transaction value, total order size and engagement.
 
