@@ -7,7 +7,7 @@ Traditional segmentation approach applies hard filters to population, such as ag
 On one hand, hard filters may introduce human bias. For example, when promoting a baby product, requiring seed audience to be all females will leave out male customers who tend to their babies on their wives' behalf, or female customers who did not declare their gender on Coupang. If such bias is feed into Facebook Lookalike Audience, lookalike audience will all be females too.
 On the other hand, hard filters reduce the population so fast that only a few hundred customers remain after applying just a few filters. For example, among the 12.9 million active customers in 2018, there are only 140 customers who registered account on Aug 21, placed 3 (or more) items in cart within 7 days, but had not made a single purchase by Aug 29. Such small segment size is not enough to paint a meaningful persona to generate lookalike audience.
 
-![Result](fig/overview.png)
+![Result](fig/overview.jpg)
 
 The objective of this project is to build a lookalike model that "softens" the filters, and accounts for the underlying statistical structure of different metrics a.k.a. features. The assumption is that all features are not independent, as commonsense affirms (if all features are independent, applying hard filters would generate the most accurate segment).
 
@@ -22,7 +22,7 @@ Input source audience: an initial segment as a list of member_srls. The initial 
 4. Near Neighbor Ranking: compute average of the initial segment as centroid, rank its nearest neighbor by a distance metric 5. (Euclidean, cosine, Mahalanobis, etc.).
 Output lookalike audience: a set of lookalike audience larger than the initial input. The sized of lookalike audience can be arbitrarily set to n. The top n customers most similar to the initial segment are returned.
 
-![Result](fig/workflow.png)
+![Result](fig/workflow.jpg)
 
 ## Feature Extraction
 * Need: annualized aggregate spending (aas), annualized order count (cto), annualized quantity count (ctq), days per order (dpo), day per quantity (dpq) quantify customer's need for each product category.
@@ -40,7 +40,7 @@ The model uses Jensen-Shannon divergence (JS divergence) to measure the importan
 
 The model computes JS divergence for every feature of the source audience, compared against the population sample. The features with highest JS divergence are selected. In the python class, parameter max_features specifies the number of top features with highest JS divergence; parameter threshold specifies the minimum JS divergence required to be considered as meaningful divergence. If none of the features exceeds minimum threshold, no feature is selected. If more than max_features number of features exceed the minimum threshold, the top max_features features are selected. The final feature weights are computed by normalizing JS divergence of valid candidate features.
 
-![Result](fig/js_div.png)
+![Result](fig/js_div.jpg)
 
 Warning: you must have at least 1 feature with meaningful divergence for the lookalike model to proceed. Empirically, a good range of features is 5 ~ 15. The default max_features is set to 20, beyond which joining table (10 million rows, one per customer) successively takes exponentially more time. The default threshold is set to 0.05, below which divergence is more likely caused by noise, not by source audience characteristic.
 
