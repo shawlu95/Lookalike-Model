@@ -1,13 +1,3 @@
-# Shaw's addition
-log.txt
-
-data/
-
-# ignore files in folder foo
-output/*
-# but keep the folder
-! output/.keep
-
 input/.DS_Store
 output/.DS_Store
 sql_hive/.DS_Store
