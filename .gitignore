@@ -2,11 +2,11 @@
 log.txt
 
 data/
-output/
 
-# exception to the rule
-!data/.gitkeep 
-!output/.gitkeep 
+# ignore files in folder foo
+output/*
+# but keep the folder
+! output/.keep
 
 input/.DS_Store
 output/.DS_Store
