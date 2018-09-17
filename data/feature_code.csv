@@ -1,0 +1,1806 @@
+idx,feature,sym,code,category
+0,age000,age,000,null
+1,sex000,sex,000,null
+2,aay000,aay,000,null
+3,cto001,cto,001,Accessory - Bag
+4,cto002,cto,002,Accessory - Other Accessory
+5,cto003,cto,003,Accessory - Suitcase
+6,cto004,cto,004,Accessory - Watch & Jewely & Glasses
+7,cto005,cto,005,Apparel - Baby Fashion
+8,cto006,cto,006,Apparel - Casual Clothes
+9,cto007,cto,007,Apparel - Men Clothes
+10,cto008,cto,008,Apparel - Sports Clothes
+11,cto009,cto,009,Apparel - Underwear & Homewear
+12,cto010,cto,010,Apparel - Women Clothes
+13,cto011,cto,011,Baby Convenience - Baby Home
+14,cto012,cto,012,Baby Convenience - Feeding Accessories
+15,cto013,cto,013,Baby Convenience - Nursery & Safety
+16,cto014,cto,014,Baby Convenience - Strollers & Carseats
+17,cto015,cto,015,Baby Core - Diapering
+18,cto016,cto,016,Baby Core - Formula
+19,cto017,cto,017,Baby Core - Wipes
+20,cto018,cto,018,Baby Necessaries - Baby Detergent
+21,cto019,cto,019,Baby Necessaries - Baby Foods
+22,cto020,cto,020,Baby Necessaries - Mom & Baby Care
+23,cto021,cto,021,Beauty - Fragrance
+24,cto022,cto,022,Beauty - Makeup
+25,cto023,cto,023,Beauty - Nailcare
+26,cto024,cto,024,Beauty - Skin Care
+27,cto025,cto,025,Beauty - Tools & Accessories
+28,cto026,cto,026,Beverages - Drinks
+29,cto027,cto,027,Beverages - Water
+30,cto028,cto,028,Books - Children Books
+31,cto029,cto,029,Books - Education Books
+32,cto030,cto,030,Books - Foreign Books
+33,cto031,cto,031,Books - General Books
+34,cto032,cto,032,Books - Other Media
+35,cto033,cto,033,Car Accessories - Car Charger & Others
+36,cto034,cto,034,Car Accessories - Car Electronics
+37,cto035,cto,035,Car Accessories - Car Interior & Exterior
+38,cto036,cto,036,Car Accessories - Car Tools & DIY
+39,cto037,cto,037,Computer & Digital - Cell Phone & Acc.
+40,cto038,cto,038,Computer & Digital - Computer
+41,cto039,cto,039,Computer & Digital - Digital
+42,cto040,cto,040,Computer & Digital - PC & Video Game
+43,cto041,cto,041,Domestic Travel - Accommodation_Boutique
+44,cto042,cto,042,Domestic Travel - Accommodation_Hotel
+45,cto043,cto,043,Domestic Travel - Accommodation_Instant Pension
+46,cto044,cto,044,Domestic Travel - Accommodation_Pension
+47,cto045,cto,045,Domestic Travel - Accommodation_Resort
+48,cto046,cto,046,Domestic Travel - Accommodation_Sub Pension
+49,cto047,cto,047,Domestic Travel - Air/Transportation
+50,cto048,cto,048,Domestic Travel - Car Rental
+51,cto049,cto,049,Domestic Travel - Package
+52,cto050,cto,050,Domestic Travel - Ticket/Pass
+53,cto051,cto,051,Electronics - AV
+54,cto052,cto,052,Electronics - Beauty Appliance
+55,cto053,cto,053,Electronics - Health Appliance
+56,cto054,cto,054,Electronics - Living Appliance
+57,cto055,cto,055,Electronics - Seasonal Appliance
+58,cto056,cto,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+59,cto057,cto,057,"Fresh, Cold & Frozen - Fresh"
+60,cto058,cto,058,Home - Bath Acc. & Household Cleaning
+61,cto059,cto,059,Home - Bedding & Handcraft & Curtain
+62,cto060,cto,060,Home - Furniture & Storage
+63,cto061,cto,061,Home - Home Deco
+64,cto062,cto,062,Home - Tools & Home Improvement
+65,cto063,cto,063,Household - Detergent
+66,cto064,cto,064,Household - Tissue
+67,cto065,cto,065,Kitchen - Cookware
+68,cto066,cto,066,Kitchen - Food Storage
+69,cto067,cto,067,Kitchen - Kitchen Accessories
+70,cto068,cto,068,Kitchen - Kitchen Appliance
+71,cto069,cto,069,Kitchen - Kitchen Disposable
+72,cto070,cto,070,Kitchen - Tableware
+73,cto071,cto,071,Kitchen - Tools & Gadgets
+74,cto072,cto,072,Meal & Healthy - Healthy food
+75,cto073,cto,073,Meal & Healthy - Meal Essentials
+76,cto074,cto,074,Overseas Travel - Accommodation
+77,cto075,cto,075,Overseas Travel - Air/Transportation
+78,cto076,cto,076,Overseas Travel - Car Rental
+79,cto077,cto,077,Overseas Travel - Package
+80,cto078,cto,078,Overseas Travel - Ticket/Pass
+81,cto079,cto,079,Personal Care - Adult Goods
+82,cto080,cto,080,Personal Care - Body Care
+83,cto081,cto,081,Personal Care - Digital Scale
+84,cto082,cto,082,Personal Care - Electric Toothbrush
+85,cto083,cto,083,Personal Care - Hair Care
+86,cto084,cto,084,Personal Care - Health Care
+87,cto085,cto,085,Personal Care - Hygienic Care
+88,cto086,cto,086,Personal Care - Oral Care
+89,cto087,cto,087,Pet - Cat Food
+90,cto088,cto,088,Pet - Cat Supply
+91,cto089,cto,089,Pet - Dog Food
+92,cto090,cto,090,Pet - Dog Supply
+93,cto091,cto,091,Pet - Small Animals
+94,cto092,cto,092,Shoes - Fashion Shoes
+95,cto093,cto,093,Shoes - Sports Shoes
+96,cto094,cto,094,"Snacks, Coffee & Tea - Coffee & Tea"
+97,cto095,cto,095,"Snacks, Coffee & Tea - Snacks"
+98,cto096,cto,096,Sporting Goods - Exercise & Fitness
+99,cto097,cto,097,Sporting Goods - Outdoor & Camping
+100,cto098,cto,098,Sporting Goods - Sports Equipment
+101,cto099,cto,099,Stationery - Arts & Hobbies
+102,cto100,cto,100,Stationery - Novelty
+103,cto101,cto,101,Stationery - Office Supplies
+104,cto102,cto,102,Toys - Baby Toys
+105,cto103,cto,103,Toys - Kids Toys
+106,cto104,cto,104,Toys - Kidult Toys
+107,cto105,cto,105,all
+108,cto106,cto,106,null
+109,ctq001,ctq,001,Accessory - Bag
+110,ctq002,ctq,002,Accessory - Other Accessory
+111,ctq003,ctq,003,Accessory - Suitcase
+112,ctq004,ctq,004,Accessory - Watch & Jewely & Glasses
+113,ctq005,ctq,005,Apparel - Baby Fashion
+114,ctq006,ctq,006,Apparel - Casual Clothes
+115,ctq007,ctq,007,Apparel - Men Clothes
+116,ctq008,ctq,008,Apparel - Sports Clothes
+117,ctq009,ctq,009,Apparel - Underwear & Homewear
+118,ctq010,ctq,010,Apparel - Women Clothes
+119,ctq011,ctq,011,Baby Convenience - Baby Home
+120,ctq012,ctq,012,Baby Convenience - Feeding Accessories
+121,ctq013,ctq,013,Baby Convenience - Nursery & Safety
+122,ctq014,ctq,014,Baby Convenience - Strollers & Carseats
+123,ctq015,ctq,015,Baby Core - Diapering
+124,ctq016,ctq,016,Baby Core - Formula
+125,ctq017,ctq,017,Baby Core - Wipes
+126,ctq018,ctq,018,Baby Necessaries - Baby Detergent
+127,ctq019,ctq,019,Baby Necessaries - Baby Foods
+128,ctq020,ctq,020,Baby Necessaries - Mom & Baby Care
+129,ctq021,ctq,021,Beauty - Fragrance
+130,ctq022,ctq,022,Beauty - Makeup
+131,ctq023,ctq,023,Beauty - Nailcare
+132,ctq024,ctq,024,Beauty - Skin Care
+133,ctq025,ctq,025,Beauty - Tools & Accessories
+134,ctq026,ctq,026,Beverages - Drinks
+135,ctq027,ctq,027,Beverages - Water
+136,ctq028,ctq,028,Books - Children Books
+137,ctq029,ctq,029,Books - Education Books
+138,ctq030,ctq,030,Books - Foreign Books
+139,ctq031,ctq,031,Books - General Books
+140,ctq032,ctq,032,Books - Other Media
+141,ctq033,ctq,033,Car Accessories - Car Charger & Others
+142,ctq034,ctq,034,Car Accessories - Car Electronics
+143,ctq035,ctq,035,Car Accessories - Car Interior & Exterior
+144,ctq036,ctq,036,Car Accessories - Car Tools & DIY
+145,ctq037,ctq,037,Computer & Digital - Cell Phone & Acc.
+146,ctq038,ctq,038,Computer & Digital - Computer
+147,ctq039,ctq,039,Computer & Digital - Digital
+148,ctq040,ctq,040,Computer & Digital - PC & Video Game
+149,ctq041,ctq,041,Domestic Travel - Accommodation_Boutique
+150,ctq042,ctq,042,Domestic Travel - Accommodation_Hotel
+151,ctq043,ctq,043,Domestic Travel - Accommodation_Instant Pension
+152,ctq044,ctq,044,Domestic Travel - Accommodation_Pension
+153,ctq045,ctq,045,Domestic Travel - Accommodation_Resort
+154,ctq046,ctq,046,Domestic Travel - Accommodation_Sub Pension
+155,ctq047,ctq,047,Domestic Travel - Air/Transportation
+156,ctq048,ctq,048,Domestic Travel - Car Rental
+157,ctq049,ctq,049,Domestic Travel - Package
+158,ctq050,ctq,050,Domestic Travel - Ticket/Pass
+159,ctq051,ctq,051,Electronics - AV
+160,ctq052,ctq,052,Electronics - Beauty Appliance
+161,ctq053,ctq,053,Electronics - Health Appliance
+162,ctq054,ctq,054,Electronics - Living Appliance
+163,ctq055,ctq,055,Electronics - Seasonal Appliance
+164,ctq056,ctq,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+165,ctq057,ctq,057,"Fresh, Cold & Frozen - Fresh"
+166,ctq058,ctq,058,Home - Bath Acc. & Household Cleaning
+167,ctq059,ctq,059,Home - Bedding & Handcraft & Curtain
+168,ctq060,ctq,060,Home - Furniture & Storage
+169,ctq061,ctq,061,Home - Home Deco
+170,ctq062,ctq,062,Home - Tools & Home Improvement
+171,ctq063,ctq,063,Household - Detergent
+172,ctq064,ctq,064,Household - Tissue
+173,ctq065,ctq,065,Kitchen - Cookware
+174,ctq066,ctq,066,Kitchen - Food Storage
+175,ctq067,ctq,067,Kitchen - Kitchen Accessories
+176,ctq068,ctq,068,Kitchen - Kitchen Appliance
+177,ctq069,ctq,069,Kitchen - Kitchen Disposable
+178,ctq070,ctq,070,Kitchen - Tableware
+179,ctq071,ctq,071,Kitchen - Tools & Gadgets
+180,ctq072,ctq,072,Meal & Healthy - Healthy food
+181,ctq073,ctq,073,Meal & Healthy - Meal Essentials
+182,ctq074,ctq,074,Overseas Travel - Accommodation
+183,ctq075,ctq,075,Overseas Travel - Air/Transportation
+184,ctq076,ctq,076,Overseas Travel - Car Rental
+185,ctq077,ctq,077,Overseas Travel - Package
+186,ctq078,ctq,078,Overseas Travel - Ticket/Pass
+187,ctq079,ctq,079,Personal Care - Adult Goods
+188,ctq080,ctq,080,Personal Care - Body Care
+189,ctq081,ctq,081,Personal Care - Digital Scale
+190,ctq082,ctq,082,Personal Care - Electric Toothbrush
+191,ctq083,ctq,083,Personal Care - Hair Care
+192,ctq084,ctq,084,Personal Care - Health Care
+193,ctq085,ctq,085,Personal Care - Hygienic Care
+194,ctq086,ctq,086,Personal Care - Oral Care
+195,ctq087,ctq,087,Pet - Cat Food
+196,ctq088,ctq,088,Pet - Cat Supply
+197,ctq089,ctq,089,Pet - Dog Food
+198,ctq090,ctq,090,Pet - Dog Supply
+199,ctq091,ctq,091,Pet - Small Animals
+200,ctq092,ctq,092,Shoes - Fashion Shoes
+201,ctq093,ctq,093,Shoes - Sports Shoes
+202,ctq094,ctq,094,"Snacks, Coffee & Tea - Coffee & Tea"
+203,ctq095,ctq,095,"Snacks, Coffee & Tea - Snacks"
+204,ctq096,ctq,096,Sporting Goods - Exercise & Fitness
+205,ctq097,ctq,097,Sporting Goods - Outdoor & Camping
+206,ctq098,ctq,098,Sporting Goods - Sports Equipment
+207,ctq099,ctq,099,Stationery - Arts & Hobbies
+208,ctq100,ctq,100,Stationery - Novelty
+209,ctq101,ctq,101,Stationery - Office Supplies
+210,ctq102,ctq,102,Toys - Baby Toys
+211,ctq103,ctq,103,Toys - Kids Toys
+212,ctq104,ctq,104,Toys - Kidult Toys
+213,ctq105,ctq,105,all
+214,ctq106,ctq,106,null
+215,ctv001,ctv,001,Accessory - Bag
+216,ctv002,ctv,002,Accessory - Other Accessory
+217,ctv003,ctv,003,Accessory - Suitcase
+218,ctv004,ctv,004,Accessory - Watch & Jewely & Glasses
+219,ctv005,ctv,005,Apparel - Baby Fashion
+220,ctv006,ctv,006,Apparel - Casual Clothes
+221,ctv007,ctv,007,Apparel - Men Clothes
+222,ctv008,ctv,008,Apparel - Sports Clothes
+223,ctv009,ctv,009,Apparel - Underwear & Homewear
+224,ctv010,ctv,010,Apparel - Women Clothes
+225,ctv011,ctv,011,Baby Convenience - Baby Home
+226,ctv012,ctv,012,Baby Convenience - Feeding Accessories
+227,ctv013,ctv,013,Baby Convenience - Nursery & Safety
+228,ctv014,ctv,014,Baby Convenience - Strollers & Carseats
+229,ctv015,ctv,015,Baby Core - Diapering
+230,ctv016,ctv,016,Baby Core - Formula
+231,ctv017,ctv,017,Baby Core - Wipes
+232,ctv018,ctv,018,Baby Necessaries - Baby Detergent
+233,ctv019,ctv,019,Baby Necessaries - Baby Foods
+234,ctv020,ctv,020,Baby Necessaries - Mom & Baby Care
+235,ctv021,ctv,021,Beauty - Fragrance
+236,ctv022,ctv,022,Beauty - Makeup
+237,ctv023,ctv,023,Beauty - Nailcare
+238,ctv024,ctv,024,Beauty - Skin Care
+239,ctv025,ctv,025,Beauty - Tools & Accessories
+240,ctv026,ctv,026,Beverages - Drinks
+241,ctv027,ctv,027,Beverages - Water
+242,ctv028,ctv,028,Books - Children Books
+243,ctv029,ctv,029,Books - Education Books
+244,ctv030,ctv,030,Books - Foreign Books
+245,ctv031,ctv,031,Books - General Books
+246,ctv032,ctv,032,Books - Other Media
+247,ctv033,ctv,033,Car Accessories - Car Charger & Others
+248,ctv034,ctv,034,Car Accessories - Car Electronics
+249,ctv035,ctv,035,Car Accessories - Car Interior & Exterior
+250,ctv036,ctv,036,Car Accessories - Car Tools & DIY
+251,ctv037,ctv,037,Computer & Digital - Cell Phone & Acc.
+252,ctv038,ctv,038,Computer & Digital - Computer
+253,ctv039,ctv,039,Computer & Digital - Digital
+254,ctv040,ctv,040,Computer & Digital - PC & Video Game
+255,ctv041,ctv,041,Domestic Travel - Accommodation_Boutique
+256,ctv042,ctv,042,Domestic Travel - Accommodation_Hotel
+257,ctv043,ctv,043,Domestic Travel - Accommodation_Instant Pension
+258,ctv044,ctv,044,Domestic Travel - Accommodation_Pension
+259,ctv045,ctv,045,Domestic Travel - Accommodation_Resort
+260,ctv046,ctv,046,Domestic Travel - Accommodation_Sub Pension
+261,ctv047,ctv,047,Domestic Travel - Air/Transportation
+262,ctv048,ctv,048,Domestic Travel - Car Rental
+263,ctv049,ctv,049,Domestic Travel - Package
+264,ctv050,ctv,050,Domestic Travel - Ticket/Pass
+265,ctv051,ctv,051,Electronics - AV
+266,ctv052,ctv,052,Electronics - Beauty Appliance
+267,ctv053,ctv,053,Electronics - Health Appliance
+268,ctv054,ctv,054,Electronics - Living Appliance
+269,ctv055,ctv,055,Electronics - Seasonal Appliance
+270,ctv056,ctv,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+271,ctv057,ctv,057,"Fresh, Cold & Frozen - Fresh"
+272,ctv058,ctv,058,Home - Bath Acc. & Household Cleaning
+273,ctv059,ctv,059,Home - Bedding & Handcraft & Curtain
+274,ctv060,ctv,060,Home - Furniture & Storage
+275,ctv061,ctv,061,Home - Home Deco
+276,ctv062,ctv,062,Home - Tools & Home Improvement
+277,ctv063,ctv,063,Household - Detergent
+278,ctv064,ctv,064,Household - Tissue
+279,ctv065,ctv,065,Kitchen - Cookware
+280,ctv066,ctv,066,Kitchen - Food Storage
+281,ctv067,ctv,067,Kitchen - Kitchen Accessories
+282,ctv068,ctv,068,Kitchen - Kitchen Appliance
+283,ctv069,ctv,069,Kitchen - Kitchen Disposable
+284,ctv070,ctv,070,Kitchen - Tableware
+285,ctv071,ctv,071,Kitchen - Tools & Gadgets
+286,ctv072,ctv,072,Meal & Healthy - Healthy food
+287,ctv073,ctv,073,Meal & Healthy - Meal Essentials
+288,ctv074,ctv,074,Overseas Travel - Accommodation
+289,ctv075,ctv,075,Overseas Travel - Air/Transportation
+290,ctv076,ctv,076,Overseas Travel - Car Rental
+291,ctv077,ctv,077,Overseas Travel - Package
+292,ctv078,ctv,078,Overseas Travel - Ticket/Pass
+293,ctv079,ctv,079,Personal Care - Adult Goods
+294,ctv080,ctv,080,Personal Care - Body Care
+295,ctv081,ctv,081,Personal Care - Digital Scale
+296,ctv082,ctv,082,Personal Care - Electric Toothbrush
+297,ctv083,ctv,083,Personal Care - Hair Care
+298,ctv084,ctv,084,Personal Care - Health Care
+299,ctv085,ctv,085,Personal Care - Hygienic Care
+300,ctv086,ctv,086,Personal Care - Oral Care
+301,ctv087,ctv,087,Pet - Cat Food
+302,ctv088,ctv,088,Pet - Cat Supply
+303,ctv089,ctv,089,Pet - Dog Food
+304,ctv090,ctv,090,Pet - Dog Supply
+305,ctv091,ctv,091,Pet - Small Animals
+306,ctv092,ctv,092,Shoes - Fashion Shoes
+307,ctv093,ctv,093,Shoes - Sports Shoes
+308,ctv094,ctv,094,"Snacks, Coffee & Tea - Coffee & Tea"
+309,ctv095,ctv,095,"Snacks, Coffee & Tea - Snacks"
+310,ctv096,ctv,096,Sporting Goods - Exercise & Fitness
+311,ctv097,ctv,097,Sporting Goods - Outdoor & Camping
+312,ctv098,ctv,098,Sporting Goods - Sports Equipment
+313,ctv099,ctv,099,Stationery - Arts & Hobbies
+314,ctv100,ctv,100,Stationery - Novelty
+315,ctv101,ctv,101,Stationery - Office Supplies
+316,ctv102,ctv,102,Toys - Baby Toys
+317,ctv103,ctv,103,Toys - Kids Toys
+318,ctv104,ctv,104,Toys - Kidult Toys
+319,ctv105,ctv,105,all
+320,ctv106,ctv,106,null
+321,cts001,cts,001,Accessory - Bag
+322,cts002,cts,002,Accessory - Other Accessory
+323,cts003,cts,003,Accessory - Suitcase
+324,cts004,cts,004,Accessory - Watch & Jewely & Glasses
+325,cts005,cts,005,Apparel - Baby Fashion
+326,cts006,cts,006,Apparel - Casual Clothes
+327,cts007,cts,007,Apparel - Men Clothes
+328,cts008,cts,008,Apparel - Sports Clothes
+329,cts009,cts,009,Apparel - Underwear & Homewear
+330,cts010,cts,010,Apparel - Women Clothes
+331,cts011,cts,011,Baby Convenience - Baby Home
+332,cts012,cts,012,Baby Convenience - Feeding Accessories
+333,cts013,cts,013,Baby Convenience - Nursery & Safety
+334,cts014,cts,014,Baby Convenience - Strollers & Carseats
+335,cts015,cts,015,Baby Core - Diapering
+336,cts016,cts,016,Baby Core - Formula
+337,cts017,cts,017,Baby Core - Wipes
+338,cts018,cts,018,Baby Necessaries - Baby Detergent
+339,cts019,cts,019,Baby Necessaries - Baby Foods
+340,cts020,cts,020,Baby Necessaries - Mom & Baby Care
+341,cts021,cts,021,Beauty - Fragrance
+342,cts022,cts,022,Beauty - Makeup
+343,cts023,cts,023,Beauty - Nailcare
+344,cts024,cts,024,Beauty - Skin Care
+345,cts025,cts,025,Beauty - Tools & Accessories
+346,cts026,cts,026,Beverages - Drinks
+347,cts027,cts,027,Beverages - Water
+348,cts028,cts,028,Books - Children Books
+349,cts029,cts,029,Books - Education Books
+350,cts030,cts,030,Books - Foreign Books
+351,cts031,cts,031,Books - General Books
+352,cts032,cts,032,Books - Other Media
+353,cts033,cts,033,Car Accessories - Car Charger & Others
+354,cts034,cts,034,Car Accessories - Car Electronics
+355,cts035,cts,035,Car Accessories - Car Interior & Exterior
+356,cts036,cts,036,Car Accessories - Car Tools & DIY
+357,cts037,cts,037,Computer & Digital - Cell Phone & Acc.
+358,cts038,cts,038,Computer & Digital - Computer
+359,cts039,cts,039,Computer & Digital - Digital
+360,cts040,cts,040,Computer & Digital - PC & Video Game
+361,cts041,cts,041,Domestic Travel - Accommodation_Boutique
+362,cts042,cts,042,Domestic Travel - Accommodation_Hotel
+363,cts043,cts,043,Domestic Travel - Accommodation_Instant Pension
+364,cts044,cts,044,Domestic Travel - Accommodation_Pension
+365,cts045,cts,045,Domestic Travel - Accommodation_Resort
+366,cts046,cts,046,Domestic Travel - Accommodation_Sub Pension
+367,cts047,cts,047,Domestic Travel - Air/Transportation
+368,cts048,cts,048,Domestic Travel - Car Rental
+369,cts049,cts,049,Domestic Travel - Package
+370,cts050,cts,050,Domestic Travel - Ticket/Pass
+371,cts051,cts,051,Electronics - AV
+372,cts052,cts,052,Electronics - Beauty Appliance
+373,cts053,cts,053,Electronics - Health Appliance
+374,cts054,cts,054,Electronics - Living Appliance
+375,cts055,cts,055,Electronics - Seasonal Appliance
+376,cts056,cts,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+377,cts057,cts,057,"Fresh, Cold & Frozen - Fresh"
+378,cts058,cts,058,Home - Bath Acc. & Household Cleaning
+379,cts059,cts,059,Home - Bedding & Handcraft & Curtain
+380,cts060,cts,060,Home - Furniture & Storage
+381,cts061,cts,061,Home - Home Deco
+382,cts062,cts,062,Home - Tools & Home Improvement
+383,cts063,cts,063,Household - Detergent
+384,cts064,cts,064,Household - Tissue
+385,cts065,cts,065,Kitchen - Cookware
+386,cts066,cts,066,Kitchen - Food Storage
+387,cts067,cts,067,Kitchen - Kitchen Accessories
+388,cts068,cts,068,Kitchen - Kitchen Appliance
+389,cts069,cts,069,Kitchen - Kitchen Disposable
+390,cts070,cts,070,Kitchen - Tableware
+391,cts071,cts,071,Kitchen - Tools & Gadgets
+392,cts072,cts,072,Meal & Healthy - Healthy food
+393,cts073,cts,073,Meal & Healthy - Meal Essentials
+394,cts074,cts,074,Overseas Travel - Accommodation
+395,cts075,cts,075,Overseas Travel - Air/Transportation
+396,cts076,cts,076,Overseas Travel - Car Rental
+397,cts077,cts,077,Overseas Travel - Package
+398,cts078,cts,078,Overseas Travel - Ticket/Pass
+399,cts079,cts,079,Personal Care - Adult Goods
+400,cts080,cts,080,Personal Care - Body Care
+401,cts081,cts,081,Personal Care - Digital Scale
+402,cts082,cts,082,Personal Care - Electric Toothbrush
+403,cts083,cts,083,Personal Care - Hair Care
+404,cts084,cts,084,Personal Care - Health Care
+405,cts085,cts,085,Personal Care - Hygienic Care
+406,cts086,cts,086,Personal Care - Oral Care
+407,cts087,cts,087,Pet - Cat Food
+408,cts088,cts,088,Pet - Cat Supply
+409,cts089,cts,089,Pet - Dog Food
+410,cts090,cts,090,Pet - Dog Supply
+411,cts091,cts,091,Pet - Small Animals
+412,cts092,cts,092,Shoes - Fashion Shoes
+413,cts093,cts,093,Shoes - Sports Shoes
+414,cts094,cts,094,"Snacks, Coffee & Tea - Coffee & Tea"
+415,cts095,cts,095,"Snacks, Coffee & Tea - Snacks"
+416,cts096,cts,096,Sporting Goods - Exercise & Fitness
+417,cts097,cts,097,Sporting Goods - Outdoor & Camping
+418,cts098,cts,098,Sporting Goods - Sports Equipment
+419,cts099,cts,099,Stationery - Arts & Hobbies
+420,cts100,cts,100,Stationery - Novelty
+421,cts101,cts,101,Stationery - Office Supplies
+422,cts102,cts,102,Toys - Baby Toys
+423,cts103,cts,103,Toys - Kids Toys
+424,cts104,cts,104,Toys - Kidult Toys
+425,cts105,cts,105,all
+426,cts106,cts,106,null
+427,dpo001,dpo,001,Accessory - Bag
+428,dpo002,dpo,002,Accessory - Other Accessory
+429,dpo003,dpo,003,Accessory - Suitcase
+430,dpo004,dpo,004,Accessory - Watch & Jewely & Glasses
+431,dpo005,dpo,005,Apparel - Baby Fashion
+432,dpo006,dpo,006,Apparel - Casual Clothes
+433,dpo007,dpo,007,Apparel - Men Clothes
+434,dpo008,dpo,008,Apparel - Sports Clothes
+435,dpo009,dpo,009,Apparel - Underwear & Homewear
+436,dpo010,dpo,010,Apparel - Women Clothes
+437,dpo011,dpo,011,Baby Convenience - Baby Home
+438,dpo012,dpo,012,Baby Convenience - Feeding Accessories
+439,dpo013,dpo,013,Baby Convenience - Nursery & Safety
+440,dpo014,dpo,014,Baby Convenience - Strollers & Carseats
+441,dpo015,dpo,015,Baby Core - Diapering
+442,dpo016,dpo,016,Baby Core - Formula
+443,dpo017,dpo,017,Baby Core - Wipes
+444,dpo018,dpo,018,Baby Necessaries - Baby Detergent
+445,dpo019,dpo,019,Baby Necessaries - Baby Foods
+446,dpo020,dpo,020,Baby Necessaries - Mom & Baby Care
+447,dpo021,dpo,021,Beauty - Fragrance
+448,dpo022,dpo,022,Beauty - Makeup
+449,dpo023,dpo,023,Beauty - Nailcare
+450,dpo024,dpo,024,Beauty - Skin Care
+451,dpo025,dpo,025,Beauty - Tools & Accessories
+452,dpo026,dpo,026,Beverages - Drinks
+453,dpo027,dpo,027,Beverages - Water
+454,dpo028,dpo,028,Books - Children Books
+455,dpo029,dpo,029,Books - Education Books
+456,dpo030,dpo,030,Books - Foreign Books
+457,dpo031,dpo,031,Books - General Books
+458,dpo032,dpo,032,Books - Other Media
+459,dpo033,dpo,033,Car Accessories - Car Charger & Others
+460,dpo034,dpo,034,Car Accessories - Car Electronics
+461,dpo035,dpo,035,Car Accessories - Car Interior & Exterior
+462,dpo036,dpo,036,Car Accessories - Car Tools & DIY
+463,dpo037,dpo,037,Computer & Digital - Cell Phone & Acc.
+464,dpo038,dpo,038,Computer & Digital - Computer
+465,dpo039,dpo,039,Computer & Digital - Digital
+466,dpo040,dpo,040,Computer & Digital - PC & Video Game
+467,dpo041,dpo,041,Domestic Travel - Accommodation_Boutique
+468,dpo042,dpo,042,Domestic Travel - Accommodation_Hotel
+469,dpo043,dpo,043,Domestic Travel - Accommodation_Instant Pension
+470,dpo044,dpo,044,Domestic Travel - Accommodation_Pension
+471,dpo045,dpo,045,Domestic Travel - Accommodation_Resort
+472,dpo046,dpo,046,Domestic Travel - Accommodation_Sub Pension
+473,dpo047,dpo,047,Domestic Travel - Air/Transportation
+474,dpo048,dpo,048,Domestic Travel - Car Rental
+475,dpo049,dpo,049,Domestic Travel - Package
+476,dpo050,dpo,050,Domestic Travel - Ticket/Pass
+477,dpo051,dpo,051,Electronics - AV
+478,dpo052,dpo,052,Electronics - Beauty Appliance
+479,dpo053,dpo,053,Electronics - Health Appliance
+480,dpo054,dpo,054,Electronics - Living Appliance
+481,dpo055,dpo,055,Electronics - Seasonal Appliance
+482,dpo056,dpo,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+483,dpo057,dpo,057,"Fresh, Cold & Frozen - Fresh"
+484,dpo058,dpo,058,Home - Bath Acc. & Household Cleaning
+485,dpo059,dpo,059,Home - Bedding & Handcraft & Curtain
+486,dpo060,dpo,060,Home - Furniture & Storage
+487,dpo061,dpo,061,Home - Home Deco
+488,dpo062,dpo,062,Home - Tools & Home Improvement
+489,dpo063,dpo,063,Household - Detergent
+490,dpo064,dpo,064,Household - Tissue
+491,dpo065,dpo,065,Kitchen - Cookware
+492,dpo066,dpo,066,Kitchen - Food Storage
+493,dpo067,dpo,067,Kitchen - Kitchen Accessories
+494,dpo068,dpo,068,Kitchen - Kitchen Appliance
+495,dpo069,dpo,069,Kitchen - Kitchen Disposable
+496,dpo070,dpo,070,Kitchen - Tableware
+497,dpo071,dpo,071,Kitchen - Tools & Gadgets
+498,dpo072,dpo,072,Meal & Healthy - Healthy food
+499,dpo073,dpo,073,Meal & Healthy - Meal Essentials
+500,dpo074,dpo,074,Overseas Travel - Accommodation
+501,dpo075,dpo,075,Overseas Travel - Air/Transportation
+502,dpo076,dpo,076,Overseas Travel - Car Rental
+503,dpo077,dpo,077,Overseas Travel - Package
+504,dpo078,dpo,078,Overseas Travel - Ticket/Pass
+505,dpo079,dpo,079,Personal Care - Adult Goods
+506,dpo080,dpo,080,Personal Care - Body Care
+507,dpo081,dpo,081,Personal Care - Digital Scale
+508,dpo082,dpo,082,Personal Care - Electric Toothbrush
+509,dpo083,dpo,083,Personal Care - Hair Care
+510,dpo084,dpo,084,Personal Care - Health Care
+511,dpo085,dpo,085,Personal Care - Hygienic Care
+512,dpo086,dpo,086,Personal Care - Oral Care
+513,dpo087,dpo,087,Pet - Cat Food
+514,dpo088,dpo,088,Pet - Cat Supply
+515,dpo089,dpo,089,Pet - Dog Food
+516,dpo090,dpo,090,Pet - Dog Supply
+517,dpo091,dpo,091,Pet - Small Animals
+518,dpo092,dpo,092,Shoes - Fashion Shoes
+519,dpo093,dpo,093,Shoes - Sports Shoes
+520,dpo094,dpo,094,"Snacks, Coffee & Tea - Coffee & Tea"
+521,dpo095,dpo,095,"Snacks, Coffee & Tea - Snacks"
+522,dpo096,dpo,096,Sporting Goods - Exercise & Fitness
+523,dpo097,dpo,097,Sporting Goods - Outdoor & Camping
+524,dpo098,dpo,098,Sporting Goods - Sports Equipment
+525,dpo099,dpo,099,Stationery - Arts & Hobbies
+526,dpo100,dpo,100,Stationery - Novelty
+527,dpo101,dpo,101,Stationery - Office Supplies
+528,dpo102,dpo,102,Toys - Baby Toys
+529,dpo103,dpo,103,Toys - Kids Toys
+530,dpo104,dpo,104,Toys - Kidult Toys
+531,dpo105,dpo,105,all
+532,dpo106,dpo,106,null
+533,dpq001,dpq,001,Accessory - Bag
+534,dpq002,dpq,002,Accessory - Other Accessory
+535,dpq003,dpq,003,Accessory - Suitcase
+536,dpq004,dpq,004,Accessory - Watch & Jewely & Glasses
+537,dpq005,dpq,005,Apparel - Baby Fashion
+538,dpq006,dpq,006,Apparel - Casual Clothes
+539,dpq007,dpq,007,Apparel - Men Clothes
+540,dpq008,dpq,008,Apparel - Sports Clothes
+541,dpq009,dpq,009,Apparel - Underwear & Homewear
+542,dpq010,dpq,010,Apparel - Women Clothes
+543,dpq011,dpq,011,Baby Convenience - Baby Home
+544,dpq012,dpq,012,Baby Convenience - Feeding Accessories
+545,dpq013,dpq,013,Baby Convenience - Nursery & Safety
+546,dpq014,dpq,014,Baby Convenience - Strollers & Carseats
+547,dpq015,dpq,015,Baby Core - Diapering
+548,dpq016,dpq,016,Baby Core - Formula
+549,dpq017,dpq,017,Baby Core - Wipes
+550,dpq018,dpq,018,Baby Necessaries - Baby Detergent
+551,dpq019,dpq,019,Baby Necessaries - Baby Foods
+552,dpq020,dpq,020,Baby Necessaries - Mom & Baby Care
+553,dpq021,dpq,021,Beauty - Fragrance
+554,dpq022,dpq,022,Beauty - Makeup
+555,dpq023,dpq,023,Beauty - Nailcare
+556,dpq024,dpq,024,Beauty - Skin Care
+557,dpq025,dpq,025,Beauty - Tools & Accessories
+558,dpq026,dpq,026,Beverages - Drinks
+559,dpq027,dpq,027,Beverages - Water
+560,dpq028,dpq,028,Books - Children Books
+561,dpq029,dpq,029,Books - Education Books
+562,dpq030,dpq,030,Books - Foreign Books
+563,dpq031,dpq,031,Books - General Books
+564,dpq032,dpq,032,Books - Other Media
+565,dpq033,dpq,033,Car Accessories - Car Charger & Others
+566,dpq034,dpq,034,Car Accessories - Car Electronics
+567,dpq035,dpq,035,Car Accessories - Car Interior & Exterior
+568,dpq036,dpq,036,Car Accessories - Car Tools & DIY
+569,dpq037,dpq,037,Computer & Digital - Cell Phone & Acc.
+570,dpq038,dpq,038,Computer & Digital - Computer
+571,dpq039,dpq,039,Computer & Digital - Digital
+572,dpq040,dpq,040,Computer & Digital - PC & Video Game
+573,dpq041,dpq,041,Domestic Travel - Accommodation_Boutique
+574,dpq042,dpq,042,Domestic Travel - Accommodation_Hotel
+575,dpq043,dpq,043,Domestic Travel - Accommodation_Instant Pension
+576,dpq044,dpq,044,Domestic Travel - Accommodation_Pension
+577,dpq045,dpq,045,Domestic Travel - Accommodation_Resort
+578,dpq046,dpq,046,Domestic Travel - Accommodation_Sub Pension
+579,dpq047,dpq,047,Domestic Travel - Air/Transportation
+580,dpq048,dpq,048,Domestic Travel - Car Rental
+581,dpq049,dpq,049,Domestic Travel - Package
+582,dpq050,dpq,050,Domestic Travel - Ticket/Pass
+583,dpq051,dpq,051,Electronics - AV
+584,dpq052,dpq,052,Electronics - Beauty Appliance
+585,dpq053,dpq,053,Electronics - Health Appliance
+586,dpq054,dpq,054,Electronics - Living Appliance
+587,dpq055,dpq,055,Electronics - Seasonal Appliance
+588,dpq056,dpq,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+589,dpq057,dpq,057,"Fresh, Cold & Frozen - Fresh"
+590,dpq058,dpq,058,Home - Bath Acc. & Household Cleaning
+591,dpq059,dpq,059,Home - Bedding & Handcraft & Curtain
+592,dpq060,dpq,060,Home - Furniture & Storage
+593,dpq061,dpq,061,Home - Home Deco
+594,dpq062,dpq,062,Home - Tools & Home Improvement
+595,dpq063,dpq,063,Household - Detergent
+596,dpq064,dpq,064,Household - Tissue
+597,dpq065,dpq,065,Kitchen - Cookware
+598,dpq066,dpq,066,Kitchen - Food Storage
+599,dpq067,dpq,067,Kitchen - Kitchen Accessories
+600,dpq068,dpq,068,Kitchen - Kitchen Appliance
+601,dpq069,dpq,069,Kitchen - Kitchen Disposable
+602,dpq070,dpq,070,Kitchen - Tableware
+603,dpq071,dpq,071,Kitchen - Tools & Gadgets
+604,dpq072,dpq,072,Meal & Healthy - Healthy food
+605,dpq073,dpq,073,Meal & Healthy - Meal Essentials
+606,dpq074,dpq,074,Overseas Travel - Accommodation
+607,dpq075,dpq,075,Overseas Travel - Air/Transportation
+608,dpq076,dpq,076,Overseas Travel - Car Rental
+609,dpq077,dpq,077,Overseas Travel - Package
+610,dpq078,dpq,078,Overseas Travel - Ticket/Pass
+611,dpq079,dpq,079,Personal Care - Adult Goods
+612,dpq080,dpq,080,Personal Care - Body Care
+613,dpq081,dpq,081,Personal Care - Digital Scale
+614,dpq082,dpq,082,Personal Care - Electric Toothbrush
+615,dpq083,dpq,083,Personal Care - Hair Care
+616,dpq084,dpq,084,Personal Care - Health Care
+617,dpq085,dpq,085,Personal Care - Hygienic Care
+618,dpq086,dpq,086,Personal Care - Oral Care
+619,dpq087,dpq,087,Pet - Cat Food
+620,dpq088,dpq,088,Pet - Cat Supply
+621,dpq089,dpq,089,Pet - Dog Food
+622,dpq090,dpq,090,Pet - Dog Supply
+623,dpq091,dpq,091,Pet - Small Animals
+624,dpq092,dpq,092,Shoes - Fashion Shoes
+625,dpq093,dpq,093,Shoes - Sports Shoes
+626,dpq094,dpq,094,"Snacks, Coffee & Tea - Coffee & Tea"
+627,dpq095,dpq,095,"Snacks, Coffee & Tea - Snacks"
+628,dpq096,dpq,096,Sporting Goods - Exercise & Fitness
+629,dpq097,dpq,097,Sporting Goods - Outdoor & Camping
+630,dpq098,dpq,098,Sporting Goods - Sports Equipment
+631,dpq099,dpq,099,Stationery - Arts & Hobbies
+632,dpq100,dpq,100,Stationery - Novelty
+633,dpq101,dpq,101,Stationery - Office Supplies
+634,dpq102,dpq,102,Toys - Baby Toys
+635,dpq103,dpq,103,Toys - Kids Toys
+636,dpq104,dpq,104,Toys - Kidult Toys
+637,dpq105,dpq,105,all
+638,dpq106,dpq,106,null
+639,dsl001,dsl,001,Accessory - Bag
+640,dsl002,dsl,002,Accessory - Other Accessory
+641,dsl003,dsl,003,Accessory - Suitcase
+642,dsl004,dsl,004,Accessory - Watch & Jewely & Glasses
+643,dsl005,dsl,005,Apparel - Baby Fashion
+644,dsl006,dsl,006,Apparel - Casual Clothes
+645,dsl007,dsl,007,Apparel - Men Clothes
+646,dsl008,dsl,008,Apparel - Sports Clothes
+647,dsl009,dsl,009,Apparel - Underwear & Homewear
+648,dsl010,dsl,010,Apparel - Women Clothes
+649,dsl011,dsl,011,Baby Convenience - Baby Home
+650,dsl012,dsl,012,Baby Convenience - Feeding Accessories
+651,dsl013,dsl,013,Baby Convenience - Nursery & Safety
+652,dsl014,dsl,014,Baby Convenience - Strollers & Carseats
+653,dsl015,dsl,015,Baby Core - Diapering
+654,dsl016,dsl,016,Baby Core - Formula
+655,dsl017,dsl,017,Baby Core - Wipes
+656,dsl018,dsl,018,Baby Necessaries - Baby Detergent
+657,dsl019,dsl,019,Baby Necessaries - Baby Foods
+658,dsl020,dsl,020,Baby Necessaries - Mom & Baby Care
+659,dsl021,dsl,021,Beauty - Fragrance
+660,dsl022,dsl,022,Beauty - Makeup
+661,dsl023,dsl,023,Beauty - Nailcare
+662,dsl024,dsl,024,Beauty - Skin Care
+663,dsl025,dsl,025,Beauty - Tools & Accessories
+664,dsl026,dsl,026,Beverages - Drinks
+665,dsl027,dsl,027,Beverages - Water
+666,dsl028,dsl,028,Books - Children Books
+667,dsl029,dsl,029,Books - Education Books
+668,dsl030,dsl,030,Books - Foreign Books
+669,dsl031,dsl,031,Books - General Books
+670,dsl032,dsl,032,Books - Other Media
+671,dsl033,dsl,033,Car Accessories - Car Charger & Others
+672,dsl034,dsl,034,Car Accessories - Car Electronics
+673,dsl035,dsl,035,Car Accessories - Car Interior & Exterior
+674,dsl036,dsl,036,Car Accessories - Car Tools & DIY
+675,dsl037,dsl,037,Computer & Digital - Cell Phone & Acc.
+676,dsl038,dsl,038,Computer & Digital - Computer
+677,dsl039,dsl,039,Computer & Digital - Digital
+678,dsl040,dsl,040,Computer & Digital - PC & Video Game
+679,dsl041,dsl,041,Domestic Travel - Accommodation_Boutique
+680,dsl042,dsl,042,Domestic Travel - Accommodation_Hotel
+681,dsl043,dsl,043,Domestic Travel - Accommodation_Instant Pension
+682,dsl044,dsl,044,Domestic Travel - Accommodation_Pension
+683,dsl045,dsl,045,Domestic Travel - Accommodation_Resort
+684,dsl046,dsl,046,Domestic Travel - Accommodation_Sub Pension
+685,dsl047,dsl,047,Domestic Travel - Air/Transportation
+686,dsl048,dsl,048,Domestic Travel - Car Rental
+687,dsl049,dsl,049,Domestic Travel - Package
+688,dsl050,dsl,050,Domestic Travel - Ticket/Pass
+689,dsl051,dsl,051,Electronics - AV
+690,dsl052,dsl,052,Electronics - Beauty Appliance
+691,dsl053,dsl,053,Electronics - Health Appliance
+692,dsl054,dsl,054,Electronics - Living Appliance
+693,dsl055,dsl,055,Electronics - Seasonal Appliance
+694,dsl056,dsl,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+695,dsl057,dsl,057,"Fresh, Cold & Frozen - Fresh"
+696,dsl058,dsl,058,Home - Bath Acc. & Household Cleaning
+697,dsl059,dsl,059,Home - Bedding & Handcraft & Curtain
+698,dsl060,dsl,060,Home - Furniture & Storage
+699,dsl061,dsl,061,Home - Home Deco
+700,dsl062,dsl,062,Home - Tools & Home Improvement
+701,dsl063,dsl,063,Household - Detergent
+702,dsl064,dsl,064,Household - Tissue
+703,dsl065,dsl,065,Kitchen - Cookware
+704,dsl066,dsl,066,Kitchen - Food Storage
+705,dsl067,dsl,067,Kitchen - Kitchen Accessories
+706,dsl068,dsl,068,Kitchen - Kitchen Appliance
+707,dsl069,dsl,069,Kitchen - Kitchen Disposable
+708,dsl070,dsl,070,Kitchen - Tableware
+709,dsl071,dsl,071,Kitchen - Tools & Gadgets
+710,dsl072,dsl,072,Meal & Healthy - Healthy food
+711,dsl073,dsl,073,Meal & Healthy - Meal Essentials
+712,dsl074,dsl,074,Overseas Travel - Accommodation
+713,dsl075,dsl,075,Overseas Travel - Air/Transportation
+714,dsl076,dsl,076,Overseas Travel - Car Rental
+715,dsl077,dsl,077,Overseas Travel - Package
+716,dsl078,dsl,078,Overseas Travel - Ticket/Pass
+717,dsl079,dsl,079,Personal Care - Adult Goods
+718,dsl080,dsl,080,Personal Care - Body Care
+719,dsl081,dsl,081,Personal Care - Digital Scale
+720,dsl082,dsl,082,Personal Care - Electric Toothbrush
+721,dsl083,dsl,083,Personal Care - Hair Care
+722,dsl084,dsl,084,Personal Care - Health Care
+723,dsl085,dsl,085,Personal Care - Hygienic Care
+724,dsl086,dsl,086,Personal Care - Oral Care
+725,dsl087,dsl,087,Pet - Cat Food
+726,dsl088,dsl,088,Pet - Cat Supply
+727,dsl089,dsl,089,Pet - Dog Food
+728,dsl090,dsl,090,Pet - Dog Supply
+729,dsl091,dsl,091,Pet - Small Animals
+730,dsl092,dsl,092,Shoes - Fashion Shoes
+731,dsl093,dsl,093,Shoes - Sports Shoes
+732,dsl094,dsl,094,"Snacks, Coffee & Tea - Coffee & Tea"
+733,dsl095,dsl,095,"Snacks, Coffee & Tea - Snacks"
+734,dsl096,dsl,096,Sporting Goods - Exercise & Fitness
+735,dsl097,dsl,097,Sporting Goods - Outdoor & Camping
+736,dsl098,dsl,098,Sporting Goods - Sports Equipment
+737,dsl099,dsl,099,Stationery - Arts & Hobbies
+738,dsl100,dsl,100,Stationery - Novelty
+739,dsl101,dsl,101,Stationery - Office Supplies
+740,dsl102,dsl,102,Toys - Baby Toys
+741,dsl103,dsl,103,Toys - Kids Toys
+742,dsl104,dsl,104,Toys - Kidult Toys
+743,dsl105,dsl,105,all
+744,dsl106,dsl,106,null
+745,gpo001,gpo,001,Accessory - Bag
+746,gpo002,gpo,002,Accessory - Other Accessory
+747,gpo003,gpo,003,Accessory - Suitcase
+748,gpo004,gpo,004,Accessory - Watch & Jewely & Glasses
+749,gpo005,gpo,005,Apparel - Baby Fashion
+750,gpo006,gpo,006,Apparel - Casual Clothes
+751,gpo007,gpo,007,Apparel - Men Clothes
+752,gpo008,gpo,008,Apparel - Sports Clothes
+753,gpo009,gpo,009,Apparel - Underwear & Homewear
+754,gpo010,gpo,010,Apparel - Women Clothes
+755,gpo011,gpo,011,Baby Convenience - Baby Home
+756,gpo012,gpo,012,Baby Convenience - Feeding Accessories
+757,gpo013,gpo,013,Baby Convenience - Nursery & Safety
+758,gpo014,gpo,014,Baby Convenience - Strollers & Carseats
+759,gpo015,gpo,015,Baby Core - Diapering
+760,gpo016,gpo,016,Baby Core - Formula
+761,gpo017,gpo,017,Baby Core - Wipes
+762,gpo018,gpo,018,Baby Necessaries - Baby Detergent
+763,gpo019,gpo,019,Baby Necessaries - Baby Foods
+764,gpo020,gpo,020,Baby Necessaries - Mom & Baby Care
+765,gpo021,gpo,021,Beauty - Fragrance
+766,gpo022,gpo,022,Beauty - Makeup
+767,gpo023,gpo,023,Beauty - Nailcare
+768,gpo024,gpo,024,Beauty - Skin Care
+769,gpo025,gpo,025,Beauty - Tools & Accessories
+770,gpo026,gpo,026,Beverages - Drinks
+771,gpo027,gpo,027,Beverages - Water
+772,gpo028,gpo,028,Books - Children Books
+773,gpo029,gpo,029,Books - Education Books
+774,gpo030,gpo,030,Books - Foreign Books
+775,gpo031,gpo,031,Books - General Books
+776,gpo032,gpo,032,Books - Other Media
+777,gpo033,gpo,033,Car Accessories - Car Charger & Others
+778,gpo034,gpo,034,Car Accessories - Car Electronics
+779,gpo035,gpo,035,Car Accessories - Car Interior & Exterior
+780,gpo036,gpo,036,Car Accessories - Car Tools & DIY
+781,gpo037,gpo,037,Computer & Digital - Cell Phone & Acc.
+782,gpo038,gpo,038,Computer & Digital - Computer
+783,gpo039,gpo,039,Computer & Digital - Digital
+784,gpo040,gpo,040,Computer & Digital - PC & Video Game
+785,gpo041,gpo,041,Domestic Travel - Accommodation_Boutique
+786,gpo042,gpo,042,Domestic Travel - Accommodation_Hotel
+787,gpo043,gpo,043,Domestic Travel - Accommodation_Instant Pension
+788,gpo044,gpo,044,Domestic Travel - Accommodation_Pension
+789,gpo045,gpo,045,Domestic Travel - Accommodation_Resort
+790,gpo046,gpo,046,Domestic Travel - Accommodation_Sub Pension
+791,gpo047,gpo,047,Domestic Travel - Air/Transportation
+792,gpo048,gpo,048,Domestic Travel - Car Rental
+793,gpo049,gpo,049,Domestic Travel - Package
+794,gpo050,gpo,050,Domestic Travel - Ticket/Pass
+795,gpo051,gpo,051,Electronics - AV
+796,gpo052,gpo,052,Electronics - Beauty Appliance
+797,gpo053,gpo,053,Electronics - Health Appliance
+798,gpo054,gpo,054,Electronics - Living Appliance
+799,gpo055,gpo,055,Electronics - Seasonal Appliance
+800,gpo056,gpo,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+801,gpo057,gpo,057,"Fresh, Cold & Frozen - Fresh"
+802,gpo058,gpo,058,Home - Bath Acc. & Household Cleaning
+803,gpo059,gpo,059,Home - Bedding & Handcraft & Curtain
+804,gpo060,gpo,060,Home - Furniture & Storage
+805,gpo061,gpo,061,Home - Home Deco
+806,gpo062,gpo,062,Home - Tools & Home Improvement
+807,gpo063,gpo,063,Household - Detergent
+808,gpo064,gpo,064,Household - Tissue
+809,gpo065,gpo,065,Kitchen - Cookware
+810,gpo066,gpo,066,Kitchen - Food Storage
+811,gpo067,gpo,067,Kitchen - Kitchen Accessories
+812,gpo068,gpo,068,Kitchen - Kitchen Appliance
+813,gpo069,gpo,069,Kitchen - Kitchen Disposable
+814,gpo070,gpo,070,Kitchen - Tableware
+815,gpo071,gpo,071,Kitchen - Tools & Gadgets
+816,gpo072,gpo,072,Meal & Healthy - Healthy food
+817,gpo073,gpo,073,Meal & Healthy - Meal Essentials
+818,gpo074,gpo,074,Overseas Travel - Accommodation
+819,gpo075,gpo,075,Overseas Travel - Air/Transportation
+820,gpo076,gpo,076,Overseas Travel - Car Rental
+821,gpo077,gpo,077,Overseas Travel - Package
+822,gpo078,gpo,078,Overseas Travel - Ticket/Pass
+823,gpo079,gpo,079,Personal Care - Adult Goods
+824,gpo080,gpo,080,Personal Care - Body Care
+825,gpo081,gpo,081,Personal Care - Digital Scale
+826,gpo082,gpo,082,Personal Care - Electric Toothbrush
+827,gpo083,gpo,083,Personal Care - Hair Care
+828,gpo084,gpo,084,Personal Care - Health Care
+829,gpo085,gpo,085,Personal Care - Hygienic Care
+830,gpo086,gpo,086,Personal Care - Oral Care
+831,gpo087,gpo,087,Pet - Cat Food
+832,gpo088,gpo,088,Pet - Cat Supply
+833,gpo089,gpo,089,Pet - Dog Food
+834,gpo090,gpo,090,Pet - Dog Supply
+835,gpo091,gpo,091,Pet - Small Animals
+836,gpo092,gpo,092,Shoes - Fashion Shoes
+837,gpo093,gpo,093,Shoes - Sports Shoes
+838,gpo094,gpo,094,"Snacks, Coffee & Tea - Coffee & Tea"
+839,gpo095,gpo,095,"Snacks, Coffee & Tea - Snacks"
+840,gpo096,gpo,096,Sporting Goods - Exercise & Fitness
+841,gpo097,gpo,097,Sporting Goods - Outdoor & Camping
+842,gpo098,gpo,098,Sporting Goods - Sports Equipment
+843,gpo099,gpo,099,Stationery - Arts & Hobbies
+844,gpo100,gpo,100,Stationery - Novelty
+845,gpo101,gpo,101,Stationery - Office Supplies
+846,gpo102,gpo,102,Toys - Baby Toys
+847,gpo103,gpo,103,Toys - Kids Toys
+848,gpo104,gpo,104,Toys - Kidult Toys
+849,gpo105,gpo,105,all
+850,gpo106,gpo,106,null
+851,gpq001,gpq,001,Accessory - Bag
+852,gpq002,gpq,002,Accessory - Other Accessory
+853,gpq003,gpq,003,Accessory - Suitcase
+854,gpq004,gpq,004,Accessory - Watch & Jewely & Glasses
+855,gpq005,gpq,005,Apparel - Baby Fashion
+856,gpq006,gpq,006,Apparel - Casual Clothes
+857,gpq007,gpq,007,Apparel - Men Clothes
+858,gpq008,gpq,008,Apparel - Sports Clothes
+859,gpq009,gpq,009,Apparel - Underwear & Homewear
+860,gpq010,gpq,010,Apparel - Women Clothes
+861,gpq011,gpq,011,Baby Convenience - Baby Home
+862,gpq012,gpq,012,Baby Convenience - Feeding Accessories
+863,gpq013,gpq,013,Baby Convenience - Nursery & Safety
+864,gpq014,gpq,014,Baby Convenience - Strollers & Carseats
+865,gpq015,gpq,015,Baby Core - Diapering
+866,gpq016,gpq,016,Baby Core - Formula
+867,gpq017,gpq,017,Baby Core - Wipes
+868,gpq018,gpq,018,Baby Necessaries - Baby Detergent
+869,gpq019,gpq,019,Baby Necessaries - Baby Foods
+870,gpq020,gpq,020,Baby Necessaries - Mom & Baby Care
+871,gpq021,gpq,021,Beauty - Fragrance
+872,gpq022,gpq,022,Beauty - Makeup
+873,gpq023,gpq,023,Beauty - Nailcare
+874,gpq024,gpq,024,Beauty - Skin Care
+875,gpq025,gpq,025,Beauty - Tools & Accessories
+876,gpq026,gpq,026,Beverages - Drinks
+877,gpq027,gpq,027,Beverages - Water
+878,gpq028,gpq,028,Books - Children Books
+879,gpq029,gpq,029,Books - Education Books
+880,gpq030,gpq,030,Books - Foreign Books
+881,gpq031,gpq,031,Books - General Books
+882,gpq032,gpq,032,Books - Other Media
+883,gpq033,gpq,033,Car Accessories - Car Charger & Others
+884,gpq034,gpq,034,Car Accessories - Car Electronics
+885,gpq035,gpq,035,Car Accessories - Car Interior & Exterior
+886,gpq036,gpq,036,Car Accessories - Car Tools & DIY
+887,gpq037,gpq,037,Computer & Digital - Cell Phone & Acc.
+888,gpq038,gpq,038,Computer & Digital - Computer
+889,gpq039,gpq,039,Computer & Digital - Digital
+890,gpq040,gpq,040,Computer & Digital - PC & Video Game
+891,gpq041,gpq,041,Domestic Travel - Accommodation_Boutique
+892,gpq042,gpq,042,Domestic Travel - Accommodation_Hotel
+893,gpq043,gpq,043,Domestic Travel - Accommodation_Instant Pension
+894,gpq044,gpq,044,Domestic Travel - Accommodation_Pension
+895,gpq045,gpq,045,Domestic Travel - Accommodation_Resort
+896,gpq046,gpq,046,Domestic Travel - Accommodation_Sub Pension
+897,gpq047,gpq,047,Domestic Travel - Air/Transportation
+898,gpq048,gpq,048,Domestic Travel - Car Rental
+899,gpq049,gpq,049,Domestic Travel - Package
+900,gpq050,gpq,050,Domestic Travel - Ticket/Pass
+901,gpq051,gpq,051,Electronics - AV
+902,gpq052,gpq,052,Electronics - Beauty Appliance
+903,gpq053,gpq,053,Electronics - Health Appliance
+904,gpq054,gpq,054,Electronics - Living Appliance
+905,gpq055,gpq,055,Electronics - Seasonal Appliance
+906,gpq056,gpq,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+907,gpq057,gpq,057,"Fresh, Cold & Frozen - Fresh"
+908,gpq058,gpq,058,Home - Bath Acc. & Household Cleaning
+909,gpq059,gpq,059,Home - Bedding & Handcraft & Curtain
+910,gpq060,gpq,060,Home - Furniture & Storage
+911,gpq061,gpq,061,Home - Home Deco
+912,gpq062,gpq,062,Home - Tools & Home Improvement
+913,gpq063,gpq,063,Household - Detergent
+914,gpq064,gpq,064,Household - Tissue
+915,gpq065,gpq,065,Kitchen - Cookware
+916,gpq066,gpq,066,Kitchen - Food Storage
+917,gpq067,gpq,067,Kitchen - Kitchen Accessories
+918,gpq068,gpq,068,Kitchen - Kitchen Appliance
+919,gpq069,gpq,069,Kitchen - Kitchen Disposable
+920,gpq070,gpq,070,Kitchen - Tableware
+921,gpq071,gpq,071,Kitchen - Tools & Gadgets
+922,gpq072,gpq,072,Meal & Healthy - Healthy food
+923,gpq073,gpq,073,Meal & Healthy - Meal Essentials
+924,gpq074,gpq,074,Overseas Travel - Accommodation
+925,gpq075,gpq,075,Overseas Travel - Air/Transportation
+926,gpq076,gpq,076,Overseas Travel - Car Rental
+927,gpq077,gpq,077,Overseas Travel - Package
+928,gpq078,gpq,078,Overseas Travel - Ticket/Pass
+929,gpq079,gpq,079,Personal Care - Adult Goods
+930,gpq080,gpq,080,Personal Care - Body Care
+931,gpq081,gpq,081,Personal Care - Digital Scale
+932,gpq082,gpq,082,Personal Care - Electric Toothbrush
+933,gpq083,gpq,083,Personal Care - Hair Care
+934,gpq084,gpq,084,Personal Care - Health Care
+935,gpq085,gpq,085,Personal Care - Hygienic Care
+936,gpq086,gpq,086,Personal Care - Oral Care
+937,gpq087,gpq,087,Pet - Cat Food
+938,gpq088,gpq,088,Pet - Cat Supply
+939,gpq089,gpq,089,Pet - Dog Food
+940,gpq090,gpq,090,Pet - Dog Supply
+941,gpq091,gpq,091,Pet - Small Animals
+942,gpq092,gpq,092,Shoes - Fashion Shoes
+943,gpq093,gpq,093,Shoes - Sports Shoes
+944,gpq094,gpq,094,"Snacks, Coffee & Tea - Coffee & Tea"
+945,gpq095,gpq,095,"Snacks, Coffee & Tea - Snacks"
+946,gpq096,gpq,096,Sporting Goods - Exercise & Fitness
+947,gpq097,gpq,097,Sporting Goods - Outdoor & Camping
+948,gpq098,gpq,098,Sporting Goods - Sports Equipment
+949,gpq099,gpq,099,Stationery - Arts & Hobbies
+950,gpq100,gpq,100,Stationery - Novelty
+951,gpq101,gpq,101,Stationery - Office Supplies
+952,gpq102,gpq,102,Toys - Baby Toys
+953,gpq103,gpq,103,Toys - Kids Toys
+954,gpq104,gpq,104,Toys - Kidult Toys
+955,gpq105,gpq,105,all
+956,gpq106,gpq,106,null
+957,gpd001,gpd,001,Accessory - Bag
+958,gpd002,gpd,002,Accessory - Other Accessory
+959,gpd003,gpd,003,Accessory - Suitcase
+960,gpd004,gpd,004,Accessory - Watch & Jewely & Glasses
+961,gpd005,gpd,005,Apparel - Baby Fashion
+962,gpd006,gpd,006,Apparel - Casual Clothes
+963,gpd007,gpd,007,Apparel - Men Clothes
+964,gpd008,gpd,008,Apparel - Sports Clothes
+965,gpd009,gpd,009,Apparel - Underwear & Homewear
+966,gpd010,gpd,010,Apparel - Women Clothes
+967,gpd011,gpd,011,Baby Convenience - Baby Home
+968,gpd012,gpd,012,Baby Convenience - Feeding Accessories
+969,gpd013,gpd,013,Baby Convenience - Nursery & Safety
+970,gpd014,gpd,014,Baby Convenience - Strollers & Carseats
+971,gpd015,gpd,015,Baby Core - Diapering
+972,gpd016,gpd,016,Baby Core - Formula
+973,gpd017,gpd,017,Baby Core - Wipes
+974,gpd018,gpd,018,Baby Necessaries - Baby Detergent
+975,gpd019,gpd,019,Baby Necessaries - Baby Foods
+976,gpd020,gpd,020,Baby Necessaries - Mom & Baby Care
+977,gpd021,gpd,021,Beauty - Fragrance
+978,gpd022,gpd,022,Beauty - Makeup
+979,gpd023,gpd,023,Beauty - Nailcare
+980,gpd024,gpd,024,Beauty - Skin Care
+981,gpd025,gpd,025,Beauty - Tools & Accessories
+982,gpd026,gpd,026,Beverages - Drinks
+983,gpd027,gpd,027,Beverages - Water
+984,gpd028,gpd,028,Books - Children Books
+985,gpd029,gpd,029,Books - Education Books
+986,gpd030,gpd,030,Books - Foreign Books
+987,gpd031,gpd,031,Books - General Books
+988,gpd032,gpd,032,Books - Other Media
+989,gpd033,gpd,033,Car Accessories - Car Charger & Others
+990,gpd034,gpd,034,Car Accessories - Car Electronics
+991,gpd035,gpd,035,Car Accessories - Car Interior & Exterior
+992,gpd036,gpd,036,Car Accessories - Car Tools & DIY
+993,gpd037,gpd,037,Computer & Digital - Cell Phone & Acc.
+994,gpd038,gpd,038,Computer & Digital - Computer
+995,gpd039,gpd,039,Computer & Digital - Digital
+996,gpd040,gpd,040,Computer & Digital - PC & Video Game
+997,gpd041,gpd,041,Domestic Travel - Accommodation_Boutique
+998,gpd042,gpd,042,Domestic Travel - Accommodation_Hotel
+999,gpd043,gpd,043,Domestic Travel - Accommodation_Instant Pension
+1000,gpd044,gpd,044,Domestic Travel - Accommodation_Pension
+1001,gpd045,gpd,045,Domestic Travel - Accommodation_Resort
+1002,gpd046,gpd,046,Domestic Travel - Accommodation_Sub Pension
+1003,gpd047,gpd,047,Domestic Travel - Air/Transportation
+1004,gpd048,gpd,048,Domestic Travel - Car Rental
+1005,gpd049,gpd,049,Domestic Travel - Package
+1006,gpd050,gpd,050,Domestic Travel - Ticket/Pass
+1007,gpd051,gpd,051,Electronics - AV
+1008,gpd052,gpd,052,Electronics - Beauty Appliance
+1009,gpd053,gpd,053,Electronics - Health Appliance
+1010,gpd054,gpd,054,Electronics - Living Appliance
+1011,gpd055,gpd,055,Electronics - Seasonal Appliance
+1012,gpd056,gpd,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1013,gpd057,gpd,057,"Fresh, Cold & Frozen - Fresh"
+1014,gpd058,gpd,058,Home - Bath Acc. & Household Cleaning
+1015,gpd059,gpd,059,Home - Bedding & Handcraft & Curtain
+1016,gpd060,gpd,060,Home - Furniture & Storage
+1017,gpd061,gpd,061,Home - Home Deco
+1018,gpd062,gpd,062,Home - Tools & Home Improvement
+1019,gpd063,gpd,063,Household - Detergent
+1020,gpd064,gpd,064,Household - Tissue
+1021,gpd065,gpd,065,Kitchen - Cookware
+1022,gpd066,gpd,066,Kitchen - Food Storage
+1023,gpd067,gpd,067,Kitchen - Kitchen Accessories
+1024,gpd068,gpd,068,Kitchen - Kitchen Appliance
+1025,gpd069,gpd,069,Kitchen - Kitchen Disposable
+1026,gpd070,gpd,070,Kitchen - Tableware
+1027,gpd071,gpd,071,Kitchen - Tools & Gadgets
+1028,gpd072,gpd,072,Meal & Healthy - Healthy food
+1029,gpd073,gpd,073,Meal & Healthy - Meal Essentials
+1030,gpd074,gpd,074,Overseas Travel - Accommodation
+1031,gpd075,gpd,075,Overseas Travel - Air/Transportation
+1032,gpd076,gpd,076,Overseas Travel - Car Rental
+1033,gpd077,gpd,077,Overseas Travel - Package
+1034,gpd078,gpd,078,Overseas Travel - Ticket/Pass
+1035,gpd079,gpd,079,Personal Care - Adult Goods
+1036,gpd080,gpd,080,Personal Care - Body Care
+1037,gpd081,gpd,081,Personal Care - Digital Scale
+1038,gpd082,gpd,082,Personal Care - Electric Toothbrush
+1039,gpd083,gpd,083,Personal Care - Hair Care
+1040,gpd084,gpd,084,Personal Care - Health Care
+1041,gpd085,gpd,085,Personal Care - Hygienic Care
+1042,gpd086,gpd,086,Personal Care - Oral Care
+1043,gpd087,gpd,087,Pet - Cat Food
+1044,gpd088,gpd,088,Pet - Cat Supply
+1045,gpd089,gpd,089,Pet - Dog Food
+1046,gpd090,gpd,090,Pet - Dog Supply
+1047,gpd091,gpd,091,Pet - Small Animals
+1048,gpd092,gpd,092,Shoes - Fashion Shoes
+1049,gpd093,gpd,093,Shoes - Sports Shoes
+1050,gpd094,gpd,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1051,gpd095,gpd,095,"Snacks, Coffee & Tea - Snacks"
+1052,gpd096,gpd,096,Sporting Goods - Exercise & Fitness
+1053,gpd097,gpd,097,Sporting Goods - Outdoor & Camping
+1054,gpd098,gpd,098,Sporting Goods - Sports Equipment
+1055,gpd099,gpd,099,Stationery - Arts & Hobbies
+1056,gpd100,gpd,100,Stationery - Novelty
+1057,gpd101,gpd,101,Stationery - Office Supplies
+1058,gpd102,gpd,102,Toys - Baby Toys
+1059,gpd103,gpd,103,Toys - Kids Toys
+1060,gpd104,gpd,104,Toys - Kidult Toys
+1061,gpd105,gpd,105,all
+1062,gpd106,gpd,106,null
+1063,vpo001,vpo,001,Accessory - Bag
+1064,vpo002,vpo,002,Accessory - Other Accessory
+1065,vpo003,vpo,003,Accessory - Suitcase
+1066,vpo004,vpo,004,Accessory - Watch & Jewely & Glasses
+1067,vpo005,vpo,005,Apparel - Baby Fashion
+1068,vpo006,vpo,006,Apparel - Casual Clothes
+1069,vpo007,vpo,007,Apparel - Men Clothes
+1070,vpo008,vpo,008,Apparel - Sports Clothes
+1071,vpo009,vpo,009,Apparel - Underwear & Homewear
+1072,vpo010,vpo,010,Apparel - Women Clothes
+1073,vpo011,vpo,011,Baby Convenience - Baby Home
+1074,vpo012,vpo,012,Baby Convenience - Feeding Accessories
+1075,vpo013,vpo,013,Baby Convenience - Nursery & Safety
+1076,vpo014,vpo,014,Baby Convenience - Strollers & Carseats
+1077,vpo015,vpo,015,Baby Core - Diapering
+1078,vpo016,vpo,016,Baby Core - Formula
+1079,vpo017,vpo,017,Baby Core - Wipes
+1080,vpo018,vpo,018,Baby Necessaries - Baby Detergent
+1081,vpo019,vpo,019,Baby Necessaries - Baby Foods
+1082,vpo020,vpo,020,Baby Necessaries - Mom & Baby Care
+1083,vpo021,vpo,021,Beauty - Fragrance
+1084,vpo022,vpo,022,Beauty - Makeup
+1085,vpo023,vpo,023,Beauty - Nailcare
+1086,vpo024,vpo,024,Beauty - Skin Care
+1087,vpo025,vpo,025,Beauty - Tools & Accessories
+1088,vpo026,vpo,026,Beverages - Drinks
+1089,vpo027,vpo,027,Beverages - Water
+1090,vpo028,vpo,028,Books - Children Books
+1091,vpo029,vpo,029,Books - Education Books
+1092,vpo030,vpo,030,Books - Foreign Books
+1093,vpo031,vpo,031,Books - General Books
+1094,vpo032,vpo,032,Books - Other Media
+1095,vpo033,vpo,033,Car Accessories - Car Charger & Others
+1096,vpo034,vpo,034,Car Accessories - Car Electronics
+1097,vpo035,vpo,035,Car Accessories - Car Interior & Exterior
+1098,vpo036,vpo,036,Car Accessories - Car Tools & DIY
+1099,vpo037,vpo,037,Computer & Digital - Cell Phone & Acc.
+1100,vpo038,vpo,038,Computer & Digital - Computer
+1101,vpo039,vpo,039,Computer & Digital - Digital
+1102,vpo040,vpo,040,Computer & Digital - PC & Video Game
+1103,vpo041,vpo,041,Domestic Travel - Accommodation_Boutique
+1104,vpo042,vpo,042,Domestic Travel - Accommodation_Hotel
+1105,vpo043,vpo,043,Domestic Travel - Accommodation_Instant Pension
+1106,vpo044,vpo,044,Domestic Travel - Accommodation_Pension
+1107,vpo045,vpo,045,Domestic Travel - Accommodation_Resort
+1108,vpo046,vpo,046,Domestic Travel - Accommodation_Sub Pension
+1109,vpo047,vpo,047,Domestic Travel - Air/Transportation
+1110,vpo048,vpo,048,Domestic Travel - Car Rental
+1111,vpo049,vpo,049,Domestic Travel - Package
+1112,vpo050,vpo,050,Domestic Travel - Ticket/Pass
+1113,vpo051,vpo,051,Electronics - AV
+1114,vpo052,vpo,052,Electronics - Beauty Appliance
+1115,vpo053,vpo,053,Electronics - Health Appliance
+1116,vpo054,vpo,054,Electronics - Living Appliance
+1117,vpo055,vpo,055,Electronics - Seasonal Appliance
+1118,vpo056,vpo,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1119,vpo057,vpo,057,"Fresh, Cold & Frozen - Fresh"
+1120,vpo058,vpo,058,Home - Bath Acc. & Household Cleaning
+1121,vpo059,vpo,059,Home - Bedding & Handcraft & Curtain
+1122,vpo060,vpo,060,Home - Furniture & Storage
+1123,vpo061,vpo,061,Home - Home Deco
+1124,vpo062,vpo,062,Home - Tools & Home Improvement
+1125,vpo063,vpo,063,Household - Detergent
+1126,vpo064,vpo,064,Household - Tissue
+1127,vpo065,vpo,065,Kitchen - Cookware
+1128,vpo066,vpo,066,Kitchen - Food Storage
+1129,vpo067,vpo,067,Kitchen - Kitchen Accessories
+1130,vpo068,vpo,068,Kitchen - Kitchen Appliance
+1131,vpo069,vpo,069,Kitchen - Kitchen Disposable
+1132,vpo070,vpo,070,Kitchen - Tableware
+1133,vpo071,vpo,071,Kitchen - Tools & Gadgets
+1134,vpo072,vpo,072,Meal & Healthy - Healthy food
+1135,vpo073,vpo,073,Meal & Healthy - Meal Essentials
+1136,vpo074,vpo,074,Overseas Travel - Accommodation
+1137,vpo075,vpo,075,Overseas Travel - Air/Transportation
+1138,vpo076,vpo,076,Overseas Travel - Car Rental
+1139,vpo077,vpo,077,Overseas Travel - Package
+1140,vpo078,vpo,078,Overseas Travel - Ticket/Pass
+1141,vpo079,vpo,079,Personal Care - Adult Goods
+1142,vpo080,vpo,080,Personal Care - Body Care
+1143,vpo081,vpo,081,Personal Care - Digital Scale
+1144,vpo082,vpo,082,Personal Care - Electric Toothbrush
+1145,vpo083,vpo,083,Personal Care - Hair Care
+1146,vpo084,vpo,084,Personal Care - Health Care
+1147,vpo085,vpo,085,Personal Care - Hygienic Care
+1148,vpo086,vpo,086,Personal Care - Oral Care
+1149,vpo087,vpo,087,Pet - Cat Food
+1150,vpo088,vpo,088,Pet - Cat Supply
+1151,vpo089,vpo,089,Pet - Dog Food
+1152,vpo090,vpo,090,Pet - Dog Supply
+1153,vpo091,vpo,091,Pet - Small Animals
+1154,vpo092,vpo,092,Shoes - Fashion Shoes
+1155,vpo093,vpo,093,Shoes - Sports Shoes
+1156,vpo094,vpo,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1157,vpo095,vpo,095,"Snacks, Coffee & Tea - Snacks"
+1158,vpo096,vpo,096,Sporting Goods - Exercise & Fitness
+1159,vpo097,vpo,097,Sporting Goods - Outdoor & Camping
+1160,vpo098,vpo,098,Sporting Goods - Sports Equipment
+1161,vpo099,vpo,099,Stationery - Arts & Hobbies
+1162,vpo100,vpo,100,Stationery - Novelty
+1163,vpo101,vpo,101,Stationery - Office Supplies
+1164,vpo102,vpo,102,Toys - Baby Toys
+1165,vpo103,vpo,103,Toys - Kids Toys
+1166,vpo104,vpo,104,Toys - Kidult Toys
+1167,vpo105,vpo,105,all
+1168,vpo106,vpo,106,null
+1169,vpq001,vpq,001,Accessory - Bag
+1170,vpq002,vpq,002,Accessory - Other Accessory
+1171,vpq003,vpq,003,Accessory - Suitcase
+1172,vpq004,vpq,004,Accessory - Watch & Jewely & Glasses
+1173,vpq005,vpq,005,Apparel - Baby Fashion
+1174,vpq006,vpq,006,Apparel - Casual Clothes
+1175,vpq007,vpq,007,Apparel - Men Clothes
+1176,vpq008,vpq,008,Apparel - Sports Clothes
+1177,vpq009,vpq,009,Apparel - Underwear & Homewear
+1178,vpq010,vpq,010,Apparel - Women Clothes
+1179,vpq011,vpq,011,Baby Convenience - Baby Home
+1180,vpq012,vpq,012,Baby Convenience - Feeding Accessories
+1181,vpq013,vpq,013,Baby Convenience - Nursery & Safety
+1182,vpq014,vpq,014,Baby Convenience - Strollers & Carseats
+1183,vpq015,vpq,015,Baby Core - Diapering
+1184,vpq016,vpq,016,Baby Core - Formula
+1185,vpq017,vpq,017,Baby Core - Wipes
+1186,vpq018,vpq,018,Baby Necessaries - Baby Detergent
+1187,vpq019,vpq,019,Baby Necessaries - Baby Foods
+1188,vpq020,vpq,020,Baby Necessaries - Mom & Baby Care
+1189,vpq021,vpq,021,Beauty - Fragrance
+1190,vpq022,vpq,022,Beauty - Makeup
+1191,vpq023,vpq,023,Beauty - Nailcare
+1192,vpq024,vpq,024,Beauty - Skin Care
+1193,vpq025,vpq,025,Beauty - Tools & Accessories
+1194,vpq026,vpq,026,Beverages - Drinks
+1195,vpq027,vpq,027,Beverages - Water
+1196,vpq028,vpq,028,Books - Children Books
+1197,vpq029,vpq,029,Books - Education Books
+1198,vpq030,vpq,030,Books - Foreign Books
+1199,vpq031,vpq,031,Books - General Books
+1200,vpq032,vpq,032,Books - Other Media
+1201,vpq033,vpq,033,Car Accessories - Car Charger & Others
+1202,vpq034,vpq,034,Car Accessories - Car Electronics
+1203,vpq035,vpq,035,Car Accessories - Car Interior & Exterior
+1204,vpq036,vpq,036,Car Accessories - Car Tools & DIY
+1205,vpq037,vpq,037,Computer & Digital - Cell Phone & Acc.
+1206,vpq038,vpq,038,Computer & Digital - Computer
+1207,vpq039,vpq,039,Computer & Digital - Digital
+1208,vpq040,vpq,040,Computer & Digital - PC & Video Game
+1209,vpq041,vpq,041,Domestic Travel - Accommodation_Boutique
+1210,vpq042,vpq,042,Domestic Travel - Accommodation_Hotel
+1211,vpq043,vpq,043,Domestic Travel - Accommodation_Instant Pension
+1212,vpq044,vpq,044,Domestic Travel - Accommodation_Pension
+1213,vpq045,vpq,045,Domestic Travel - Accommodation_Resort
+1214,vpq046,vpq,046,Domestic Travel - Accommodation_Sub Pension
+1215,vpq047,vpq,047,Domestic Travel - Air/Transportation
+1216,vpq048,vpq,048,Domestic Travel - Car Rental
+1217,vpq049,vpq,049,Domestic Travel - Package
+1218,vpq050,vpq,050,Domestic Travel - Ticket/Pass
+1219,vpq051,vpq,051,Electronics - AV
+1220,vpq052,vpq,052,Electronics - Beauty Appliance
+1221,vpq053,vpq,053,Electronics - Health Appliance
+1222,vpq054,vpq,054,Electronics - Living Appliance
+1223,vpq055,vpq,055,Electronics - Seasonal Appliance
+1224,vpq056,vpq,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1225,vpq057,vpq,057,"Fresh, Cold & Frozen - Fresh"
+1226,vpq058,vpq,058,Home - Bath Acc. & Household Cleaning
+1227,vpq059,vpq,059,Home - Bedding & Handcraft & Curtain
+1228,vpq060,vpq,060,Home - Furniture & Storage
+1229,vpq061,vpq,061,Home - Home Deco
+1230,vpq062,vpq,062,Home - Tools & Home Improvement
+1231,vpq063,vpq,063,Household - Detergent
+1232,vpq064,vpq,064,Household - Tissue
+1233,vpq065,vpq,065,Kitchen - Cookware
+1234,vpq066,vpq,066,Kitchen - Food Storage
+1235,vpq067,vpq,067,Kitchen - Kitchen Accessories
+1236,vpq068,vpq,068,Kitchen - Kitchen Appliance
+1237,vpq069,vpq,069,Kitchen - Kitchen Disposable
+1238,vpq070,vpq,070,Kitchen - Tableware
+1239,vpq071,vpq,071,Kitchen - Tools & Gadgets
+1240,vpq072,vpq,072,Meal & Healthy - Healthy food
+1241,vpq073,vpq,073,Meal & Healthy - Meal Essentials
+1242,vpq074,vpq,074,Overseas Travel - Accommodation
+1243,vpq075,vpq,075,Overseas Travel - Air/Transportation
+1244,vpq076,vpq,076,Overseas Travel - Car Rental
+1245,vpq077,vpq,077,Overseas Travel - Package
+1246,vpq078,vpq,078,Overseas Travel - Ticket/Pass
+1247,vpq079,vpq,079,Personal Care - Adult Goods
+1248,vpq080,vpq,080,Personal Care - Body Care
+1249,vpq081,vpq,081,Personal Care - Digital Scale
+1250,vpq082,vpq,082,Personal Care - Electric Toothbrush
+1251,vpq083,vpq,083,Personal Care - Hair Care
+1252,vpq084,vpq,084,Personal Care - Health Care
+1253,vpq085,vpq,085,Personal Care - Hygienic Care
+1254,vpq086,vpq,086,Personal Care - Oral Care
+1255,vpq087,vpq,087,Pet - Cat Food
+1256,vpq088,vpq,088,Pet - Cat Supply
+1257,vpq089,vpq,089,Pet - Dog Food
+1258,vpq090,vpq,090,Pet - Dog Supply
+1259,vpq091,vpq,091,Pet - Small Animals
+1260,vpq092,vpq,092,Shoes - Fashion Shoes
+1261,vpq093,vpq,093,Shoes - Sports Shoes
+1262,vpq094,vpq,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1263,vpq095,vpq,095,"Snacks, Coffee & Tea - Snacks"
+1264,vpq096,vpq,096,Sporting Goods - Exercise & Fitness
+1265,vpq097,vpq,097,Sporting Goods - Outdoor & Camping
+1266,vpq098,vpq,098,Sporting Goods - Sports Equipment
+1267,vpq099,vpq,099,Stationery - Arts & Hobbies
+1268,vpq100,vpq,100,Stationery - Novelty
+1269,vpq101,vpq,101,Stationery - Office Supplies
+1270,vpq102,vpq,102,Toys - Baby Toys
+1271,vpq103,vpq,103,Toys - Kids Toys
+1272,vpq104,vpq,104,Toys - Kidult Toys
+1273,vpq105,vpq,105,all
+1274,vpq106,vpq,106,null
+1275,vsl001,vsl,001,Accessory - Bag
+1276,vsl002,vsl,002,Accessory - Other Accessory
+1277,vsl003,vsl,003,Accessory - Suitcase
+1278,vsl004,vsl,004,Accessory - Watch & Jewely & Glasses
+1279,vsl005,vsl,005,Apparel - Baby Fashion
+1280,vsl006,vsl,006,Apparel - Casual Clothes
+1281,vsl007,vsl,007,Apparel - Men Clothes
+1282,vsl008,vsl,008,Apparel - Sports Clothes
+1283,vsl009,vsl,009,Apparel - Underwear & Homewear
+1284,vsl010,vsl,010,Apparel - Women Clothes
+1285,vsl011,vsl,011,Baby Convenience - Baby Home
+1286,vsl012,vsl,012,Baby Convenience - Feeding Accessories
+1287,vsl013,vsl,013,Baby Convenience - Nursery & Safety
+1288,vsl014,vsl,014,Baby Convenience - Strollers & Carseats
+1289,vsl015,vsl,015,Baby Core - Diapering
+1290,vsl016,vsl,016,Baby Core - Formula
+1291,vsl017,vsl,017,Baby Core - Wipes
+1292,vsl018,vsl,018,Baby Necessaries - Baby Detergent
+1293,vsl019,vsl,019,Baby Necessaries - Baby Foods
+1294,vsl020,vsl,020,Baby Necessaries - Mom & Baby Care
+1295,vsl021,vsl,021,Beauty - Fragrance
+1296,vsl022,vsl,022,Beauty - Makeup
+1297,vsl023,vsl,023,Beauty - Nailcare
+1298,vsl024,vsl,024,Beauty - Skin Care
+1299,vsl025,vsl,025,Beauty - Tools & Accessories
+1300,vsl026,vsl,026,Beverages - Drinks
+1301,vsl027,vsl,027,Beverages - Water
+1302,vsl028,vsl,028,Books - Children Books
+1303,vsl029,vsl,029,Books - Education Books
+1304,vsl030,vsl,030,Books - Foreign Books
+1305,vsl031,vsl,031,Books - General Books
+1306,vsl032,vsl,032,Books - Other Media
+1307,vsl033,vsl,033,Car Accessories - Car Charger & Others
+1308,vsl034,vsl,034,Car Accessories - Car Electronics
+1309,vsl035,vsl,035,Car Accessories - Car Interior & Exterior
+1310,vsl036,vsl,036,Car Accessories - Car Tools & DIY
+1311,vsl037,vsl,037,Computer & Digital - Cell Phone & Acc.
+1312,vsl038,vsl,038,Computer & Digital - Computer
+1313,vsl039,vsl,039,Computer & Digital - Digital
+1314,vsl040,vsl,040,Computer & Digital - PC & Video Game
+1315,vsl041,vsl,041,Domestic Travel - Accommodation_Boutique
+1316,vsl042,vsl,042,Domestic Travel - Accommodation_Hotel
+1317,vsl043,vsl,043,Domestic Travel - Accommodation_Instant Pension
+1318,vsl044,vsl,044,Domestic Travel - Accommodation_Pension
+1319,vsl045,vsl,045,Domestic Travel - Accommodation_Resort
+1320,vsl046,vsl,046,Domestic Travel - Accommodation_Sub Pension
+1321,vsl047,vsl,047,Domestic Travel - Air/Transportation
+1322,vsl048,vsl,048,Domestic Travel - Car Rental
+1323,vsl049,vsl,049,Domestic Travel - Package
+1324,vsl050,vsl,050,Domestic Travel - Ticket/Pass
+1325,vsl051,vsl,051,Electronics - AV
+1326,vsl052,vsl,052,Electronics - Beauty Appliance
+1327,vsl053,vsl,053,Electronics - Health Appliance
+1328,vsl054,vsl,054,Electronics - Living Appliance
+1329,vsl055,vsl,055,Electronics - Seasonal Appliance
+1330,vsl056,vsl,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1331,vsl057,vsl,057,"Fresh, Cold & Frozen - Fresh"
+1332,vsl058,vsl,058,Home - Bath Acc. & Household Cleaning
+1333,vsl059,vsl,059,Home - Bedding & Handcraft & Curtain
+1334,vsl060,vsl,060,Home - Furniture & Storage
+1335,vsl061,vsl,061,Home - Home Deco
+1336,vsl062,vsl,062,Home - Tools & Home Improvement
+1337,vsl063,vsl,063,Household - Detergent
+1338,vsl064,vsl,064,Household - Tissue
+1339,vsl065,vsl,065,Kitchen - Cookware
+1340,vsl066,vsl,066,Kitchen - Food Storage
+1341,vsl067,vsl,067,Kitchen - Kitchen Accessories
+1342,vsl068,vsl,068,Kitchen - Kitchen Appliance
+1343,vsl069,vsl,069,Kitchen - Kitchen Disposable
+1344,vsl070,vsl,070,Kitchen - Tableware
+1345,vsl071,vsl,071,Kitchen - Tools & Gadgets
+1346,vsl072,vsl,072,Meal & Healthy - Healthy food
+1347,vsl073,vsl,073,Meal & Healthy - Meal Essentials
+1348,vsl074,vsl,074,Overseas Travel - Accommodation
+1349,vsl075,vsl,075,Overseas Travel - Air/Transportation
+1350,vsl076,vsl,076,Overseas Travel - Car Rental
+1351,vsl077,vsl,077,Overseas Travel - Package
+1352,vsl078,vsl,078,Overseas Travel - Ticket/Pass
+1353,vsl079,vsl,079,Personal Care - Adult Goods
+1354,vsl080,vsl,080,Personal Care - Body Care
+1355,vsl081,vsl,081,Personal Care - Digital Scale
+1356,vsl082,vsl,082,Personal Care - Electric Toothbrush
+1357,vsl083,vsl,083,Personal Care - Hair Care
+1358,vsl084,vsl,084,Personal Care - Health Care
+1359,vsl085,vsl,085,Personal Care - Hygienic Care
+1360,vsl086,vsl,086,Personal Care - Oral Care
+1361,vsl087,vsl,087,Pet - Cat Food
+1362,vsl088,vsl,088,Pet - Cat Supply
+1363,vsl089,vsl,089,Pet - Dog Food
+1364,vsl090,vsl,090,Pet - Dog Supply
+1365,vsl091,vsl,091,Pet - Small Animals
+1366,vsl092,vsl,092,Shoes - Fashion Shoes
+1367,vsl093,vsl,093,Shoes - Sports Shoes
+1368,vsl094,vsl,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1369,vsl095,vsl,095,"Snacks, Coffee & Tea - Snacks"
+1370,vsl096,vsl,096,Sporting Goods - Exercise & Fitness
+1371,vsl097,vsl,097,Sporting Goods - Outdoor & Camping
+1372,vsl098,vsl,098,Sporting Goods - Sports Equipment
+1373,vsl099,vsl,099,Stationery - Arts & Hobbies
+1374,vsl100,vsl,100,Stationery - Novelty
+1375,vsl101,vsl,101,Stationery - Office Supplies
+1376,vsl102,vsl,102,Toys - Baby Toys
+1377,vsl103,vsl,103,Toys - Kids Toys
+1378,vsl104,vsl,104,Toys - Kidult Toys
+1379,vsl105,vsl,105,all
+1380,vsl106,vsl,106,null
+1381,spo001,spo,001,Accessory - Bag
+1382,spo002,spo,002,Accessory - Other Accessory
+1383,spo003,spo,003,Accessory - Suitcase
+1384,spo004,spo,004,Accessory - Watch & Jewely & Glasses
+1385,spo005,spo,005,Apparel - Baby Fashion
+1386,spo006,spo,006,Apparel - Casual Clothes
+1387,spo007,spo,007,Apparel - Men Clothes
+1388,spo008,spo,008,Apparel - Sports Clothes
+1389,spo009,spo,009,Apparel - Underwear & Homewear
+1390,spo010,spo,010,Apparel - Women Clothes
+1391,spo011,spo,011,Baby Convenience - Baby Home
+1392,spo012,spo,012,Baby Convenience - Feeding Accessories
+1393,spo013,spo,013,Baby Convenience - Nursery & Safety
+1394,spo014,spo,014,Baby Convenience - Strollers & Carseats
+1395,spo015,spo,015,Baby Core - Diapering
+1396,spo016,spo,016,Baby Core - Formula
+1397,spo017,spo,017,Baby Core - Wipes
+1398,spo018,spo,018,Baby Necessaries - Baby Detergent
+1399,spo019,spo,019,Baby Necessaries - Baby Foods
+1400,spo020,spo,020,Baby Necessaries - Mom & Baby Care
+1401,spo021,spo,021,Beauty - Fragrance
+1402,spo022,spo,022,Beauty - Makeup
+1403,spo023,spo,023,Beauty - Nailcare
+1404,spo024,spo,024,Beauty - Skin Care
+1405,spo025,spo,025,Beauty - Tools & Accessories
+1406,spo026,spo,026,Beverages - Drinks
+1407,spo027,spo,027,Beverages - Water
+1408,spo028,spo,028,Books - Children Books
+1409,spo029,spo,029,Books - Education Books
+1410,spo030,spo,030,Books - Foreign Books
+1411,spo031,spo,031,Books - General Books
+1412,spo032,spo,032,Books - Other Media
+1413,spo033,spo,033,Car Accessories - Car Charger & Others
+1414,spo034,spo,034,Car Accessories - Car Electronics
+1415,spo035,spo,035,Car Accessories - Car Interior & Exterior
+1416,spo036,spo,036,Car Accessories - Car Tools & DIY
+1417,spo037,spo,037,Computer & Digital - Cell Phone & Acc.
+1418,spo038,spo,038,Computer & Digital - Computer
+1419,spo039,spo,039,Computer & Digital - Digital
+1420,spo040,spo,040,Computer & Digital - PC & Video Game
+1421,spo041,spo,041,Domestic Travel - Accommodation_Boutique
+1422,spo042,spo,042,Domestic Travel - Accommodation_Hotel
+1423,spo043,spo,043,Domestic Travel - Accommodation_Instant Pension
+1424,spo044,spo,044,Domestic Travel - Accommodation_Pension
+1425,spo045,spo,045,Domestic Travel - Accommodation_Resort
+1426,spo046,spo,046,Domestic Travel - Accommodation_Sub Pension
+1427,spo047,spo,047,Domestic Travel - Air/Transportation
+1428,spo048,spo,048,Domestic Travel - Car Rental
+1429,spo049,spo,049,Domestic Travel - Package
+1430,spo050,spo,050,Domestic Travel - Ticket/Pass
+1431,spo051,spo,051,Electronics - AV
+1432,spo052,spo,052,Electronics - Beauty Appliance
+1433,spo053,spo,053,Electronics - Health Appliance
+1434,spo054,spo,054,Electronics - Living Appliance
+1435,spo055,spo,055,Electronics - Seasonal Appliance
+1436,spo056,spo,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1437,spo057,spo,057,"Fresh, Cold & Frozen - Fresh"
+1438,spo058,spo,058,Home - Bath Acc. & Household Cleaning
+1439,spo059,spo,059,Home - Bedding & Handcraft & Curtain
+1440,spo060,spo,060,Home - Furniture & Storage
+1441,spo061,spo,061,Home - Home Deco
+1442,spo062,spo,062,Home - Tools & Home Improvement
+1443,spo063,spo,063,Household - Detergent
+1444,spo064,spo,064,Household - Tissue
+1445,spo065,spo,065,Kitchen - Cookware
+1446,spo066,spo,066,Kitchen - Food Storage
+1447,spo067,spo,067,Kitchen - Kitchen Accessories
+1448,spo068,spo,068,Kitchen - Kitchen Appliance
+1449,spo069,spo,069,Kitchen - Kitchen Disposable
+1450,spo070,spo,070,Kitchen - Tableware
+1451,spo071,spo,071,Kitchen - Tools & Gadgets
+1452,spo072,spo,072,Meal & Healthy - Healthy food
+1453,spo073,spo,073,Meal & Healthy - Meal Essentials
+1454,spo074,spo,074,Overseas Travel - Accommodation
+1455,spo075,spo,075,Overseas Travel - Air/Transportation
+1456,spo076,spo,076,Overseas Travel - Car Rental
+1457,spo077,spo,077,Overseas Travel - Package
+1458,spo078,spo,078,Overseas Travel - Ticket/Pass
+1459,spo079,spo,079,Personal Care - Adult Goods
+1460,spo080,spo,080,Personal Care - Body Care
+1461,spo081,spo,081,Personal Care - Digital Scale
+1462,spo082,spo,082,Personal Care - Electric Toothbrush
+1463,spo083,spo,083,Personal Care - Hair Care
+1464,spo084,spo,084,Personal Care - Health Care
+1465,spo085,spo,085,Personal Care - Hygienic Care
+1466,spo086,spo,086,Personal Care - Oral Care
+1467,spo087,spo,087,Pet - Cat Food
+1468,spo088,spo,088,Pet - Cat Supply
+1469,spo089,spo,089,Pet - Dog Food
+1470,spo090,spo,090,Pet - Dog Supply
+1471,spo091,spo,091,Pet - Small Animals
+1472,spo092,spo,092,Shoes - Fashion Shoes
+1473,spo093,spo,093,Shoes - Sports Shoes
+1474,spo094,spo,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1475,spo095,spo,095,"Snacks, Coffee & Tea - Snacks"
+1476,spo096,spo,096,Sporting Goods - Exercise & Fitness
+1477,spo097,spo,097,Sporting Goods - Outdoor & Camping
+1478,spo098,spo,098,Sporting Goods - Sports Equipment
+1479,spo099,spo,099,Stationery - Arts & Hobbies
+1480,spo100,spo,100,Stationery - Novelty
+1481,spo101,spo,101,Stationery - Office Supplies
+1482,spo102,spo,102,Toys - Baby Toys
+1483,spo103,spo,103,Toys - Kids Toys
+1484,spo104,spo,104,Toys - Kidult Toys
+1485,spo105,spo,105,all
+1486,spo106,spo,106,null
+1487,spq001,spq,001,Accessory - Bag
+1488,spq002,spq,002,Accessory - Other Accessory
+1489,spq003,spq,003,Accessory - Suitcase
+1490,spq004,spq,004,Accessory - Watch & Jewely & Glasses
+1491,spq005,spq,005,Apparel - Baby Fashion
+1492,spq006,spq,006,Apparel - Casual Clothes
+1493,spq007,spq,007,Apparel - Men Clothes
+1494,spq008,spq,008,Apparel - Sports Clothes
+1495,spq009,spq,009,Apparel - Underwear & Homewear
+1496,spq010,spq,010,Apparel - Women Clothes
+1497,spq011,spq,011,Baby Convenience - Baby Home
+1498,spq012,spq,012,Baby Convenience - Feeding Accessories
+1499,spq013,spq,013,Baby Convenience - Nursery & Safety
+1500,spq014,spq,014,Baby Convenience - Strollers & Carseats
+1501,spq015,spq,015,Baby Core - Diapering
+1502,spq016,spq,016,Baby Core - Formula
+1503,spq017,spq,017,Baby Core - Wipes
+1504,spq018,spq,018,Baby Necessaries - Baby Detergent
+1505,spq019,spq,019,Baby Necessaries - Baby Foods
+1506,spq020,spq,020,Baby Necessaries - Mom & Baby Care
+1507,spq021,spq,021,Beauty - Fragrance
+1508,spq022,spq,022,Beauty - Makeup
+1509,spq023,spq,023,Beauty - Nailcare
+1510,spq024,spq,024,Beauty - Skin Care
+1511,spq025,spq,025,Beauty - Tools & Accessories
+1512,spq026,spq,026,Beverages - Drinks
+1513,spq027,spq,027,Beverages - Water
+1514,spq028,spq,028,Books - Children Books
+1515,spq029,spq,029,Books - Education Books
+1516,spq030,spq,030,Books - Foreign Books
+1517,spq031,spq,031,Books - General Books
+1518,spq032,spq,032,Books - Other Media
+1519,spq033,spq,033,Car Accessories - Car Charger & Others
+1520,spq034,spq,034,Car Accessories - Car Electronics
+1521,spq035,spq,035,Car Accessories - Car Interior & Exterior
+1522,spq036,spq,036,Car Accessories - Car Tools & DIY
+1523,spq037,spq,037,Computer & Digital - Cell Phone & Acc.
+1524,spq038,spq,038,Computer & Digital - Computer
+1525,spq039,spq,039,Computer & Digital - Digital
+1526,spq040,spq,040,Computer & Digital - PC & Video Game
+1527,spq041,spq,041,Domestic Travel - Accommodation_Boutique
+1528,spq042,spq,042,Domestic Travel - Accommodation_Hotel
+1529,spq043,spq,043,Domestic Travel - Accommodation_Instant Pension
+1530,spq044,spq,044,Domestic Travel - Accommodation_Pension
+1531,spq045,spq,045,Domestic Travel - Accommodation_Resort
+1532,spq046,spq,046,Domestic Travel - Accommodation_Sub Pension
+1533,spq047,spq,047,Domestic Travel - Air/Transportation
+1534,spq048,spq,048,Domestic Travel - Car Rental
+1535,spq049,spq,049,Domestic Travel - Package
+1536,spq050,spq,050,Domestic Travel - Ticket/Pass
+1537,spq051,spq,051,Electronics - AV
+1538,spq052,spq,052,Electronics - Beauty Appliance
+1539,spq053,spq,053,Electronics - Health Appliance
+1540,spq054,spq,054,Electronics - Living Appliance
+1541,spq055,spq,055,Electronics - Seasonal Appliance
+1542,spq056,spq,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1543,spq057,spq,057,"Fresh, Cold & Frozen - Fresh"
+1544,spq058,spq,058,Home - Bath Acc. & Household Cleaning
+1545,spq059,spq,059,Home - Bedding & Handcraft & Curtain
+1546,spq060,spq,060,Home - Furniture & Storage
+1547,spq061,spq,061,Home - Home Deco
+1548,spq062,spq,062,Home - Tools & Home Improvement
+1549,spq063,spq,063,Household - Detergent
+1550,spq064,spq,064,Household - Tissue
+1551,spq065,spq,065,Kitchen - Cookware
+1552,spq066,spq,066,Kitchen - Food Storage
+1553,spq067,spq,067,Kitchen - Kitchen Accessories
+1554,spq068,spq,068,Kitchen - Kitchen Appliance
+1555,spq069,spq,069,Kitchen - Kitchen Disposable
+1556,spq070,spq,070,Kitchen - Tableware
+1557,spq071,spq,071,Kitchen - Tools & Gadgets
+1558,spq072,spq,072,Meal & Healthy - Healthy food
+1559,spq073,spq,073,Meal & Healthy - Meal Essentials
+1560,spq074,spq,074,Overseas Travel - Accommodation
+1561,spq075,spq,075,Overseas Travel - Air/Transportation
+1562,spq076,spq,076,Overseas Travel - Car Rental
+1563,spq077,spq,077,Overseas Travel - Package
+1564,spq078,spq,078,Overseas Travel - Ticket/Pass
+1565,spq079,spq,079,Personal Care - Adult Goods
+1566,spq080,spq,080,Personal Care - Body Care
+1567,spq081,spq,081,Personal Care - Digital Scale
+1568,spq082,spq,082,Personal Care - Electric Toothbrush
+1569,spq083,spq,083,Personal Care - Hair Care
+1570,spq084,spq,084,Personal Care - Health Care
+1571,spq085,spq,085,Personal Care - Hygienic Care
+1572,spq086,spq,086,Personal Care - Oral Care
+1573,spq087,spq,087,Pet - Cat Food
+1574,spq088,spq,088,Pet - Cat Supply
+1575,spq089,spq,089,Pet - Dog Food
+1576,spq090,spq,090,Pet - Dog Supply
+1577,spq091,spq,091,Pet - Small Animals
+1578,spq092,spq,092,Shoes - Fashion Shoes
+1579,spq093,spq,093,Shoes - Sports Shoes
+1580,spq094,spq,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1581,spq095,spq,095,"Snacks, Coffee & Tea - Snacks"
+1582,spq096,spq,096,Sporting Goods - Exercise & Fitness
+1583,spq097,spq,097,Sporting Goods - Outdoor & Camping
+1584,spq098,spq,098,Sporting Goods - Sports Equipment
+1585,spq099,spq,099,Stationery - Arts & Hobbies
+1586,spq100,spq,100,Stationery - Novelty
+1587,spq101,spq,101,Stationery - Office Supplies
+1588,spq102,spq,102,Toys - Baby Toys
+1589,spq103,spq,103,Toys - Kids Toys
+1590,spq104,spq,104,Toys - Kidult Toys
+1591,spq105,spq,105,all
+1592,spq106,spq,106,null
+1593,ssl001,ssl,001,Accessory - Bag
+1594,ssl002,ssl,002,Accessory - Other Accessory
+1595,ssl003,ssl,003,Accessory - Suitcase
+1596,ssl004,ssl,004,Accessory - Watch & Jewely & Glasses
+1597,ssl005,ssl,005,Apparel - Baby Fashion
+1598,ssl006,ssl,006,Apparel - Casual Clothes
+1599,ssl007,ssl,007,Apparel - Men Clothes
+1600,ssl008,ssl,008,Apparel - Sports Clothes
+1601,ssl009,ssl,009,Apparel - Underwear & Homewear
+1602,ssl010,ssl,010,Apparel - Women Clothes
+1603,ssl011,ssl,011,Baby Convenience - Baby Home
+1604,ssl012,ssl,012,Baby Convenience - Feeding Accessories
+1605,ssl013,ssl,013,Baby Convenience - Nursery & Safety
+1606,ssl014,ssl,014,Baby Convenience - Strollers & Carseats
+1607,ssl015,ssl,015,Baby Core - Diapering
+1608,ssl016,ssl,016,Baby Core - Formula
+1609,ssl017,ssl,017,Baby Core - Wipes
+1610,ssl018,ssl,018,Baby Necessaries - Baby Detergent
+1611,ssl019,ssl,019,Baby Necessaries - Baby Foods
+1612,ssl020,ssl,020,Baby Necessaries - Mom & Baby Care
+1613,ssl021,ssl,021,Beauty - Fragrance
+1614,ssl022,ssl,022,Beauty - Makeup
+1615,ssl023,ssl,023,Beauty - Nailcare
+1616,ssl024,ssl,024,Beauty - Skin Care
+1617,ssl025,ssl,025,Beauty - Tools & Accessories
+1618,ssl026,ssl,026,Beverages - Drinks
+1619,ssl027,ssl,027,Beverages - Water
+1620,ssl028,ssl,028,Books - Children Books
+1621,ssl029,ssl,029,Books - Education Books
+1622,ssl030,ssl,030,Books - Foreign Books
+1623,ssl031,ssl,031,Books - General Books
+1624,ssl032,ssl,032,Books - Other Media
+1625,ssl033,ssl,033,Car Accessories - Car Charger & Others
+1626,ssl034,ssl,034,Car Accessories - Car Electronics
+1627,ssl035,ssl,035,Car Accessories - Car Interior & Exterior
+1628,ssl036,ssl,036,Car Accessories - Car Tools & DIY
+1629,ssl037,ssl,037,Computer & Digital - Cell Phone & Acc.
+1630,ssl038,ssl,038,Computer & Digital - Computer
+1631,ssl039,ssl,039,Computer & Digital - Digital
+1632,ssl040,ssl,040,Computer & Digital - PC & Video Game
+1633,ssl041,ssl,041,Domestic Travel - Accommodation_Boutique
+1634,ssl042,ssl,042,Domestic Travel - Accommodation_Hotel
+1635,ssl043,ssl,043,Domestic Travel - Accommodation_Instant Pension
+1636,ssl044,ssl,044,Domestic Travel - Accommodation_Pension
+1637,ssl045,ssl,045,Domestic Travel - Accommodation_Resort
+1638,ssl046,ssl,046,Domestic Travel - Accommodation_Sub Pension
+1639,ssl047,ssl,047,Domestic Travel - Air/Transportation
+1640,ssl048,ssl,048,Domestic Travel - Car Rental
+1641,ssl049,ssl,049,Domestic Travel - Package
+1642,ssl050,ssl,050,Domestic Travel - Ticket/Pass
+1643,ssl051,ssl,051,Electronics - AV
+1644,ssl052,ssl,052,Electronics - Beauty Appliance
+1645,ssl053,ssl,053,Electronics - Health Appliance
+1646,ssl054,ssl,054,Electronics - Living Appliance
+1647,ssl055,ssl,055,Electronics - Seasonal Appliance
+1648,ssl056,ssl,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1649,ssl057,ssl,057,"Fresh, Cold & Frozen - Fresh"
+1650,ssl058,ssl,058,Home - Bath Acc. & Household Cleaning
+1651,ssl059,ssl,059,Home - Bedding & Handcraft & Curtain
+1652,ssl060,ssl,060,Home - Furniture & Storage
+1653,ssl061,ssl,061,Home - Home Deco
+1654,ssl062,ssl,062,Home - Tools & Home Improvement
+1655,ssl063,ssl,063,Household - Detergent
+1656,ssl064,ssl,064,Household - Tissue
+1657,ssl065,ssl,065,Kitchen - Cookware
+1658,ssl066,ssl,066,Kitchen - Food Storage
+1659,ssl067,ssl,067,Kitchen - Kitchen Accessories
+1660,ssl068,ssl,068,Kitchen - Kitchen Appliance
+1661,ssl069,ssl,069,Kitchen - Kitchen Disposable
+1662,ssl070,ssl,070,Kitchen - Tableware
+1663,ssl071,ssl,071,Kitchen - Tools & Gadgets
+1664,ssl072,ssl,072,Meal & Healthy - Healthy food
+1665,ssl073,ssl,073,Meal & Healthy - Meal Essentials
+1666,ssl074,ssl,074,Overseas Travel - Accommodation
+1667,ssl075,ssl,075,Overseas Travel - Air/Transportation
+1668,ssl076,ssl,076,Overseas Travel - Car Rental
+1669,ssl077,ssl,077,Overseas Travel - Package
+1670,ssl078,ssl,078,Overseas Travel - Ticket/Pass
+1671,ssl079,ssl,079,Personal Care - Adult Goods
+1672,ssl080,ssl,080,Personal Care - Body Care
+1673,ssl081,ssl,081,Personal Care - Digital Scale
+1674,ssl082,ssl,082,Personal Care - Electric Toothbrush
+1675,ssl083,ssl,083,Personal Care - Hair Care
+1676,ssl084,ssl,084,Personal Care - Health Care
+1677,ssl085,ssl,085,Personal Care - Hygienic Care
+1678,ssl086,ssl,086,Personal Care - Oral Care
+1679,ssl087,ssl,087,Pet - Cat Food
+1680,ssl088,ssl,088,Pet - Cat Supply
+1681,ssl089,ssl,089,Pet - Dog Food
+1682,ssl090,ssl,090,Pet - Dog Supply
+1683,ssl091,ssl,091,Pet - Small Animals
+1684,ssl092,ssl,092,Shoes - Fashion Shoes
+1685,ssl093,ssl,093,Shoes - Sports Shoes
+1686,ssl094,ssl,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1687,ssl095,ssl,095,"Snacks, Coffee & Tea - Snacks"
+1688,ssl096,ssl,096,Sporting Goods - Exercise & Fitness
+1689,ssl097,ssl,097,Sporting Goods - Outdoor & Camping
+1690,ssl098,ssl,098,Sporting Goods - Sports Equipment
+1691,ssl099,ssl,099,Stationery - Arts & Hobbies
+1692,ssl100,ssl,100,Stationery - Novelty
+1693,ssl101,ssl,101,Stationery - Office Supplies
+1694,ssl102,ssl,102,Toys - Baby Toys
+1695,ssl103,ssl,103,Toys - Kids Toys
+1696,ssl104,ssl,104,Toys - Kidult Toys
+1697,ssl105,ssl,105,all
+1698,ssl106,ssl,106,null
+1699,aas001,aas,001,Accessory - Bag
+1700,aas002,aas,002,Accessory - Other Accessory
+1701,aas003,aas,003,Accessory - Suitcase
+1702,aas004,aas,004,Accessory - Watch & Jewely & Glasses
+1703,aas005,aas,005,Apparel - Baby Fashion
+1704,aas006,aas,006,Apparel - Casual Clothes
+1705,aas007,aas,007,Apparel - Men Clothes
+1706,aas008,aas,008,Apparel - Sports Clothes
+1707,aas009,aas,009,Apparel - Underwear & Homewear
+1708,aas010,aas,010,Apparel - Women Clothes
+1709,aas011,aas,011,Baby Convenience - Baby Home
+1710,aas012,aas,012,Baby Convenience - Feeding Accessories
+1711,aas013,aas,013,Baby Convenience - Nursery & Safety
+1712,aas014,aas,014,Baby Convenience - Strollers & Carseats
+1713,aas015,aas,015,Baby Core - Diapering
+1714,aas016,aas,016,Baby Core - Formula
+1715,aas017,aas,017,Baby Core - Wipes
+1716,aas018,aas,018,Baby Necessaries - Baby Detergent
+1717,aas019,aas,019,Baby Necessaries - Baby Foods
+1718,aas020,aas,020,Baby Necessaries - Mom & Baby Care
+1719,aas021,aas,021,Beauty - Fragrance
+1720,aas022,aas,022,Beauty - Makeup
+1721,aas023,aas,023,Beauty - Nailcare
+1722,aas024,aas,024,Beauty - Skin Care
+1723,aas025,aas,025,Beauty - Tools & Accessories
+1724,aas026,aas,026,Beverages - Drinks
+1725,aas027,aas,027,Beverages - Water
+1726,aas028,aas,028,Books - Children Books
+1727,aas029,aas,029,Books - Education Books
+1728,aas030,aas,030,Books - Foreign Books
+1729,aas031,aas,031,Books - General Books
+1730,aas032,aas,032,Books - Other Media
+1731,aas033,aas,033,Car Accessories - Car Charger & Others
+1732,aas034,aas,034,Car Accessories - Car Electronics
+1733,aas035,aas,035,Car Accessories - Car Interior & Exterior
+1734,aas036,aas,036,Car Accessories - Car Tools & DIY
+1735,aas037,aas,037,Computer & Digital - Cell Phone & Acc.
+1736,aas038,aas,038,Computer & Digital - Computer
+1737,aas039,aas,039,Computer & Digital - Digital
+1738,aas040,aas,040,Computer & Digital - PC & Video Game
+1739,aas041,aas,041,Domestic Travel - Accommodation_Boutique
+1740,aas042,aas,042,Domestic Travel - Accommodation_Hotel
+1741,aas043,aas,043,Domestic Travel - Accommodation_Instant Pension
+1742,aas044,aas,044,Domestic Travel - Accommodation_Pension
+1743,aas045,aas,045,Domestic Travel - Accommodation_Resort
+1744,aas046,aas,046,Domestic Travel - Accommodation_Sub Pension
+1745,aas047,aas,047,Domestic Travel - Air/Transportation
+1746,aas048,aas,048,Domestic Travel - Car Rental
+1747,aas049,aas,049,Domestic Travel - Package
+1748,aas050,aas,050,Domestic Travel - Ticket/Pass
+1749,aas051,aas,051,Electronics - AV
+1750,aas052,aas,052,Electronics - Beauty Appliance
+1751,aas053,aas,053,Electronics - Health Appliance
+1752,aas054,aas,054,Electronics - Living Appliance
+1753,aas055,aas,055,Electronics - Seasonal Appliance
+1754,aas056,aas,056,"Fresh, Cold & Frozen - Cold & Frozen Food"
+1755,aas057,aas,057,"Fresh, Cold & Frozen - Fresh"
+1756,aas058,aas,058,Home - Bath Acc. & Household Cleaning
+1757,aas059,aas,059,Home - Bedding & Handcraft & Curtain
+1758,aas060,aas,060,Home - Furniture & Storage
+1759,aas061,aas,061,Home - Home Deco
+1760,aas062,aas,062,Home - Tools & Home Improvement
+1761,aas063,aas,063,Household - Detergent
+1762,aas064,aas,064,Household - Tissue
+1763,aas065,aas,065,Kitchen - Cookware
+1764,aas066,aas,066,Kitchen - Food Storage
+1765,aas067,aas,067,Kitchen - Kitchen Accessories
+1766,aas068,aas,068,Kitchen - Kitchen Appliance
+1767,aas069,aas,069,Kitchen - Kitchen Disposable
+1768,aas070,aas,070,Kitchen - Tableware
+1769,aas071,aas,071,Kitchen - Tools & Gadgets
+1770,aas072,aas,072,Meal & Healthy - Healthy food
+1771,aas073,aas,073,Meal & Healthy - Meal Essentials
+1772,aas074,aas,074,Overseas Travel - Accommodation
+1773,aas075,aas,075,Overseas Travel - Air/Transportation
+1774,aas076,aas,076,Overseas Travel - Car Rental
+1775,aas077,aas,077,Overseas Travel - Package
+1776,aas078,aas,078,Overseas Travel - Ticket/Pass
+1777,aas079,aas,079,Personal Care - Adult Goods
+1778,aas080,aas,080,Personal Care - Body Care
+1779,aas081,aas,081,Personal Care - Digital Scale
+1780,aas082,aas,082,Personal Care - Electric Toothbrush
+1781,aas083,aas,083,Personal Care - Hair Care
+1782,aas084,aas,084,Personal Care - Health Care
+1783,aas085,aas,085,Personal Care - Hygienic Care
+1784,aas086,aas,086,Personal Care - Oral Care
+1785,aas087,aas,087,Pet - Cat Food
+1786,aas088,aas,088,Pet - Cat Supply
+1787,aas089,aas,089,Pet - Dog Food
+1788,aas090,aas,090,Pet - Dog Supply
+1789,aas091,aas,091,Pet - Small Animals
+1790,aas092,aas,092,Shoes - Fashion Shoes
+1791,aas093,aas,093,Shoes - Sports Shoes
+1792,aas094,aas,094,"Snacks, Coffee & Tea - Coffee & Tea"
+1793,aas095,aas,095,"Snacks, Coffee & Tea - Snacks"
+1794,aas096,aas,096,Sporting Goods - Exercise & Fitness
+1795,aas097,aas,097,Sporting Goods - Outdoor & Camping
+1796,aas098,aas,098,Sporting Goods - Sports Equipment
+1797,aas099,aas,099,Stationery - Arts & Hobbies
+1798,aas100,aas,100,Stationery - Novelty
+1799,aas101,aas,101,Stationery - Office Supplies
+1800,aas102,aas,102,Toys - Baby Toys
+1801,aas103,aas,103,Toys - Kids Toys
+1802,aas104,aas,104,Toys - Kidult Toys
+1803,aas105,aas,105,all
+1804,aas106,aas,106,null
