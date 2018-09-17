@@ -25,12 +25,20 @@ Output lookalike audience: a set of lookalike audience larger than the initial i
 ![Result](fig/workflow.jpg)
 
 ## Feature Extraction
-* Need: annualized aggregate spending (aas), annualized order count (cto), annualized quantity count (ctq), days per order (dpo), day per quantity (dpq) quantify customer's need for each product category.
 
+The full model includes 1805 features, which are computed primarily based on bimart.cs_sales and indexing_platform.user_behavior_log. Because the indexing_platform.user_behavior_log table is huge, it is impossible to compute 1805 features for the entire population of approximately 11 million customer (after 12 hours, the task is killed). Instead, the sql must be run on private cluster using Zeppelin Sandbox.
+
+The partial model includes 957 features, which are computed based on bimart.cs_sales in Redshift. The 957 features (9 * 106 + 3) are highlighted by red colors in the table above. It takes about 30 minutes to finish the entire feature extraction process on Redshift.
+
+The redshift SQL commands are syntactically different from Hive SQL commands, both versions are (hopefully) bug-free. Refer to README.txt in the sql_hive and sql_redshift directories for detailed explanations on how to use the files.
+
+* Need: annualized aggregate spending (aas), annualized order count (cto), annualized quantity count (ctq), days per order (dpo), day per quantity (dpq) quantify customer's need for each product category.
 * Habit: annualized view count (ctv) measures indirectly how much interests a customer places in each product category.
 * Engagement: view per order (vpo), view per quantity (vpq) measure how much attention a customer spends on looking for the best offer in each product category.
-# Spending power: GMV per order (gpo), per quantity (gpq), per day (gpd) measure how much a customer is willing to spend (per unit order / quantity) in each product category.
+* Spending power: GMV per order (gpo), per quantity (gpq), per day (gpd) measure how much a customer is willing to spend (per unit order / quantity) in each product category.
 * Churn: days since last order (dal), views since last order (vsl) measure how likely a user is going to place the next order in each product category.
+
+![Result](fig/sql.jpg)
 
 ### Naming Convention
 Each feature is referred to as symbol + category code, in which category code is padded with 0 to the front to maintain a consistent 3-digit code. For example, "cto078" refers to annualized order count in category 78 (Overseas Travel - Ticket/Pass). Use the script here to generate names for all features. An exhaustive list of 1805 feature names can be found [here](data/feature_code.csv) as a csv file.
