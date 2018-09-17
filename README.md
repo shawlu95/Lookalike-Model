@@ -16,9 +16,9 @@ Still, human bias is often helpful. Since the initial segments must be defined b
 Connect to pang-SFO.
 
 ### Step 2
-If using Redshift, run SQL commands sequentially in sql_redshift foldler. For detailed instruction, refer to this guide.
+If using Redshift, run SQL commands sequentially in sql_redshift foldler. For detailed instruction, refer to this [guide](sql_redshift/README.txt).
 
-If using Hive, run SQL commands sequentially in sql_hive foldler. For detailed instruction, refer to this guide.
+If using Hive, run SQL commands sequentially in sql_hive foldler. For detailed instruction, refer to this [guide](sql_hive/README.txt).
 
 ### Step 3
 Install Anaconda for Python 3. Launch Jupyter Notebook, and download required libraries.
