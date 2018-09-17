@@ -9,7 +9,7 @@ start = timeit.default_timer()
 sql = """
     SELECT * FROM sb_marketing.sl_lookalike_features_final
     WHERE category = '$category$'
-    ORDER BY member_srl LIMIT 1000;"""
+    ORDER BY member_srl;"""
 
 cwd = os.getcwd()
 cwd = os.path.join(cwd, 'data')
