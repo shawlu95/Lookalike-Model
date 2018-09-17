@@ -1,7 +1,13 @@
 # Shaw's addition
 log.txt
-data/*
-output/*
+
+data/
+output/
+
+# exception to the rule
+!data/.gitkeep 
+!output/.gitkeep 
+
 input/.DS_Store
 output/.DS_Store
 sql_hive/.DS_Store

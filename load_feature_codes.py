@@ -15,6 +15,7 @@ else:
     engine = create_engine('postgresql://user_marketing:ONDB=e62LvaQ@dw-sandbox-3.coupang.net:5439/sandbox')
     sql = """
             SELECT 
+                DISTINCT category
                 ,DENSE_RANK() OVER(ORDER BY category) AS rnk
             FROM sb_marketing.sl_lookalike_features_final
             ORDER BY category;
