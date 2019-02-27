@@ -155,13 +155,15 @@ Note that the shape of histogram depends on the lookalike audience size. The mor
 The model is most useful when the goal is to understand the source audience's concern on specific product category or range of product categories. Simply select source audience based on account value, gender, platform, or registration time will should not produce any meaningful insights from the source audience.
 
 If you see the following warning from python script, it means there is none of the features has observed a substantial deviation from the population, meaning that no feature that can tell the source audience apart from the population. The likely causes is that the definition of source audience is too general. In this case, consider adding stricter rules in selecting source audience. A direct, but less reliable way is to drop the threshold for Jensen-Shannon divergence, but keep in mind that if js_div is less than 0.05, it would be difficult to tell if the divergence is due to signal or noise. 
-Warning
+
+
 ```
 Critical Error:
 No feature observes a significant divergence from population. Lookalike model cannot proceed.
 Rerun selectTopFeatures() with lower js_div threshold or rebuild source audience with higher signal-noise ratio.
 ```
-The recommended size of source audience is between 5,000 and 50,000. Too few customers will not likely provide sufficient data to estimate probability distribution for each feature. Too many customers will result in distributions that are generally similar to the population distribution for most features. Warning: the recommended source audience size is the effective source audience size, not the input size: it is not helpful to randomly select 5,000 customers out of a large segment of 500,000 customers, which is too general (~4.5% of all Coupang customers). The effective size of the source audience would be 500,000, not 5,000.
+
+The recommended size of source audience is between 5,000 and 50,000. Too few customers will not likely provide sufficient data to estimate probability distribution for each feature. Too many customers will result in distributions that are generally similar to the population distribution for most features. Note that the recommended source audience size is the effective source audience size, not the input size: it is not helpful to randomly select 5,000 customers out of a large segment of 500,000 customers. The effective audience siz would be 500,000 in this case, which is too general (~4.5% of all Coupang customers). 
 
 If source audience is generated using SQL query, be careful about how the rows of the table you're querying from are indexed and sorted. The sorting method can introduce unexpected signal pattern which the lookalike model WILL pick up. For example, if the table is ordered by most recent active date, then a "LIMIT" clause will return the most recent (or distant) active customers. Such signal will cause the distribution of "day since last order" of the source audience to be very different from the rest of the population, because customers who are recently active are likely to have smaller values in "day since last order" feature. To avoid such implicit filter effect, you may want to add "ORDER BY RANDOM()" to randomize the indexing order.
 
